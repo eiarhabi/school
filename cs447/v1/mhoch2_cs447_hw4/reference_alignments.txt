@@ -1,0 +1,5924 @@
+NULL Don' t dawdle on the way
+No pierdas el tiempo por el camino .
+1 3 5 3 3 5 3 0
+================================
+NULL Don' t worry
+No te preocupes .
+1 3 3 0
+================================
+NULL I' il call in 30 minutes to check
+Te llamaré a la oficina para ver a qué hora llegas .
+5 3 7 2 5 6 5 7 5 5 5 0
+================================
+NULL Oh , hello Fujio
+Oh , hola Fujio .
+1 2 3 4 0
+================================
+NULL Why are you outside ?
+¿ Por qué estás fuera ?
+5 1 1 4 4 5
+================================
+NULL It' s no fun listening to women' s talk
+No es divertido entrar ahí con mi madre .
+1 2 4 4 4 4 4 4 0
+================================
+NULL Well , why don' t we go in together ?
+¿ Por qué no entramos juntos ?
+10 9 3 5 9 9 10
+================================
+NULL I' m fine out here
+Prefiero estar aquí afuera .
+3 3 5 3 0
+================================
+NULL Right , you wait out here
+Bien , espera afuera .
+1 2 1 1 0
+================================
+NULL I' il tell her
+De acuerdo .
+3 3 0
+================================
+NULL Good
+Bien .
+1 0
+================================
+NULL Welcome
+Beinvenida .
+1 0
+================================
+NULL Please come in
+Por favor , pasa .
+1 1 2 2 0
+================================
+NULL I hope you' re well
+Espero que estés bien .
+2 1 3 5 4
+================================
+NULL Been here long ?
+¿ Estás aquí hace mucho ?
+4 1 2 1 3 4
+================================
+NULL A little while
+Un rato .
+1 3 0
+================================
+NULL You' re very pretty , today
+Estás muy bonita hoy .
+4 3 4 6 2
+================================
+NULL You look stunning , today
+Estás estupenda hoy .
+3 3 5 0
+================================
+NULL Today you' re really beautiful
+Hoy estás realmente hermosa .
+1 5 4 5 3
+================================
+NULL What' s with the ' " today- today ' " ?
+¿ Sólo " hoy " ?
+11 7 6 8 6 11
+================================
+NULL She always thinks she' s beautiful
+¿ Crees que siempre estás hermosa ? .
+0 3 1 2 6 6 0 0
+================================
+NULL Cheeky !
+¡ Estúpida !
+1 1 2
+================================
+NULL No , is it too earthy ?
+Si , es demasiado sencillo . ¿ verdad ?
+6 2 3 5 6 0 7 6 7
+================================
+NULL Earthy ?
+¿ Sobrio ésto ?
+2 1 1 2
+================================
+NULL You don' t feel it is ?
+¿ No lo encuentras sobrio ?
+7 3 5 2 2 7
+================================
+NULL How old are you ?
+¿ Qué edad tienes ?
+5 2 2 2 5
+================================
+NULL Old enough
+Siempre lo estropeas todo .
+1 1 1 1 0
+================================
+NULL Terrible , terrible
+Si te ríes así ...
+1 1 1 1 1
+================================
+NULL Grows older ?
+¿ Por las arrugas ?
+3 1 1 1 3
+================================
+NULL You don' t have to spell it out
+¡ Ni las nombres !
+6 6 6 6 6
+================================
+NULL Let' s hear it again
+Prueba volver a reirte .
+3 5 3 3 0
+================================
+NULL Reminds one of a zoo
+Me recuerdas una mona del zoo .
+1 1 2 1 1 1 0
+================================
+NULL Cheeky !
+¡ Estúpida !
+1 1 2
+================================
+NULL Gotta give it up
+Debo proteger la piel .
+1 1 4 1 0
+================================
+NULL Can you solve this ?
+¿ Puedes resolver este problema ?
+5 3 3 3 3 5
+================================
+NULL What ?
+¿ De qué se trata ?
+2 1 1 1 1 2
+================================
+NULL Working on this ?
+¿ Para resolver éste problema ?
+4 1 1 1 1 4
+================================
+NULL You can' t do it like that !
+No debes usar la x .
+3 2 2 1 2 0
+================================
+NULL No using algebra
+Debes resolverlo sin la x .
+3 3 3 3 3 0
+================================
+NULL A total of 32 coins ...
+Si son 32 monedas ...
+4 4 4 5 6
+================================
+NULL And no using real coins !
+¡ No debes utilizar monedas reales !
+4 4 4 4 5 4 6
+================================
+NULL Right !
+¡ Bien !
+1 1 2
+================================
+NULL I' ve got it !
+¡ Lo tengo !
+2 1 3 5
+================================
+NULL It just takes patience No , that' s wrong too
+No , así tampoco .
+5 6 4 4 0
+================================
+NULL You don' t have to get upset about it
+No debes contrariarte por eso .
+3 7 7 7 7 0
+================================
+NULL They don' t do this in junior
+Esto no puede ser un pregunta de la escuela media .
+7 3 7 7 1 7 1 7 7 7 0
+================================
+NULL If you could do it you' d say they do
+Siempre dices eso cuando no sabes las respuestas .
+7 7 6 7 3 7 3 7 0
+================================
+NULL Couldn' t the doctor find me a tutor ?
+¿ Conoces a alguien que pudiera darle clases de repaso ?
+9 1 1 1 8 1 1 8 8 8 9
+================================
+NULL You worry too much
+Tú eres muy exigente .
+1 3 3 3 0
+================================
+NULL I don' t really care who just so long as he' s clean
+En realidad no importa quién . ..............................
+11 11 3 11 11 0 11
+================================
+NULL You' re just after a Fredrick March type
+Te gustaría un profesor como Frederick March , ¿ verdad ?
+6 6 5 6 6 6 6 4 8 6 8
+================================
+NULL That would be lovely
+Claro que me gustaría .
+4 2 4 4 0
+================================
+NULL Please , I' m serious
+Pero en este momento cualquiera me vendría bien .
+5 5 5 5 5 3 5 4 0
+================================
+NULL I' il keep my eyes open
+Lo intentaré .
+1 5 0
+================================
+NULL Don' t forget , will you ?
+Bien
+3
+================================
+NULL Please , for Fujio' s sake
+Fujio me está esperando .
+4 4 4 4 0
+================================
+NULL You' re leaving ?
+¿ A dónde vas ?
+4 1 1 1 4
+================================
+NULL My niece from Osaka arrives here tomorrow
+Mañana llega Setsuko de Osaka .
+5 5 5 3 5 0
+================================
+NULL It' il be good to see her again
+Será un placer volver a verla .
+8 2 8 8 5 8 0
+================================
+NULL I like the girl
+Me gusta la chica .
+4 4 3 4 0
+================================
+NULL She' s such a smart , tidy girl
+Es encantadora .
+5 5 0
+================================
+NULL Goodbye !
+¡ Adiós !
+1 1 2
+================================
+NULL Goodbye !
+¡ Adiós !
+1 1 2
+================================
+NULL Didn' t know you had a sister like this
+¿ Esta es la bufanda de tu hermana ? .
+0 1 1 1 1 5 7 7 4 0
+================================
+NULL Goodbye
+Adiós
+1
+================================
+NULL There are some biscuits
+Hay algunas galletitas .
+1 3 4 0
+================================
+NULL Something a little more solid ?
+Quisiera alguna otra cosa .
+5 5 5 5 0
+================================
+NULL Like what ?
+¿ Como qué ?
+3 1 2 3
+================================
+NULL What is there ?
+¿ Que eso eso allí ?
+4 1 3 3 3 4
+================================
+NULL Noodles ?
+¿ Tallarines ?
+2 1 2
+================================
+NULL Noodles ?
+¿ Tallarines ?
+2 1 2
+================================
+NULL How about sushi ?
+¿ Qué tal sushi ?
+4 3 3 3 4
+================================
+NULL A bit too cold ...
+Un poquito frío ...
+1 2 4 5
+================================
+NULL Topped with eel .
+Acompañado con anguila .
+1 2 3 4
+================================
+NULL But then again ...
+Pero entonces otra vez ...
+1 2 3 3 4
+================================
+NULL You' re hard to please
+Eres difícil de complacer .
+3 3 3 3 2
+================================
+NULL Rice with a helping of eel on the side
+Arroz acompañado con algo de anguila .
+1 1 2 4 5 6 0
+================================
+NULL In a tiered box
+En dos platos separados .
+1 3 3 3 0
+================================
+NULL You eat a lot !
+¡ Qué exigente !
+4 2 2 5
+================================
+NULL Is one enough ?
+¿ Una porción es suficiente ?
+4 3 3 1 3 4
+================================
+NULL If not , I' il have biscuits
+Si no me basta , tengo las galletitas .
+1 2 4 7 3 6 7 7 0
+================================
+NULL Stupid !
+¡ Estúpida !
+1 1 2
+================================
+NULL Is the doctor home ?
+¿ Tu marido está en casa ?
+5 4 4 4 4 4 5
+================================
+NULL No , he' s at the university
+No , está en la universidad .
+1 2 3 5 6 7 0
+================================
+NULL Right , he teaches on Wednesdays
+Ah , hoy es miércoles .
+4 2 4 3 4 0
+================================
+NULL It' s Nakanishi on the phone
+Está Nakanishi al teléfono .
+3 3 3 3 0
+================================
+NULL I' il take it in here
+Lo traeré aquí .
+1 3 6 0
+================================
+NULL It looks bad for you
+Debes renunciar .
+2 2 0
+================================
+NULL You' il never have children
+Nunca podrás tener hijos .
+3 5 4 5 0
+================================
+NULL Sir , it' s time for your class
+Señor , es hora de su clase .
+1 2 4 3 8 3 8 0
+================================
+NULL Which room ?
+¿ En qué aula ?
+3 1 1 1 3
+================================
+NULL Okada !
+¡ Okada !
+1 1 2
+================================
+NULL The book I ordered has arrived
+Recoge éste libro de mi parte .
+4 4 2 4 4 4 0
+================================
+NULL Can you bring it to my place ?
+De acuerdo .
+3 3 0
+================================
+NULL The mode of infection is yet to be discovered
+Aún no sabemos con qué clase de bacteria se transmite .
+2 2 2 6 2 2 3 2 2 2 0
+================================
+NULL But a detectable relationship ... ... has been established with the spirochette ... ... of the encephalitic bacterium which reaches epidemic proportions
+Pero la relación detectable ... ... había sido identificada con la espiroqueta ... ... de la bacteria de la encefalitis letárgica ... que alcanzó proporciones epidémicas .
+1 11 3 3 5 5 3 8 3 10 11 3 5 5 15 11 3 15 11 3 3 5 19 3 3 3 0
+================================
+NULL Whether the tow are the same or not is still a matter of speculation
+Aún falta aclarar si ésta cepa ... ... se puede identificar con la encefalitis hepática .
+1 1 1 1 1 1 6 6 1 1 1 1 2 1 1 0
+================================
+NULL Looking beyond these questions ... ... at Dr. Ekonomo' s diagnosis of lethargic encephalitis ...
+En cualquier caso , la encefalitis letárgica ... ... descubierta por Von Economo ...
+1 1 1 7 7 1 1 5 5 1 1 1 1 5
+================================
+NULL Going back to the original question ...
+Si la encefalitis epidémica es idéntica a la encefalitis hepática ...
+1 4 1 1 1 1 3 4 1 1 7
+================================
+NULL Setsuko !
+¡ Setsuko !
+1 1 2
+================================
+NULL Setsuko !
+¡ Setsuko !
+1 1 2
+================================
+NULL No , I' m actually very good
+Ahora lo hago muy bien .
+5 5 5 6 7 0
+================================
+NULL I can drive at 60 kph on Route 2
+Puedo conducir a 60 km/ h por la Carretera Estatal Hanshin .
+5 5 5 5 5 5 3 4 5 5 5 0
+================================
+NULL No thanks
+No gracias
+1 2
+================================
+NULL Your family doesn' t object ?
+¿ Tu familia no se opone ?
+6 1 2 3 2 2 6
+================================
+NULL I see , but it sounds dangerous
+No lo saben .
+7 5 7 0
+================================
+NULL Shall I show you ?
+¿ Quieres venir conmigo ?
+5 1 1 1 5
+================================
+NULL So here' s where you are
+Entonces aquí es donde estás .
+1 2 3 4 2 0
+================================
+NULL I' m talking to uncle
+Estoy hablando con mi tío .
+5 3 5 5 5 0
+================================
+NULL First put your bags away
+Primero deja tus bolsos .
+1 1 1 1 0
+================================
+NULL She' s learning to drive
+Setsuko me hablaba de su pasión por las máquinas .
+3 5 3 1 3 3 5 3 3 0
+================================
+NULL Restrict your accidents to Osaka , please
+No sabía que querías convertirte en un hombre .
+1 1 1 1 1 1 1 1 0
+================================
+NULL You smoke ?
+¿ Tú fumas ?
+3 1 2 3
+================================
+NULL Yes , I do
+Si
+1
+================================
+NULL It' s bad for you !
+¡ No deberías fumar !
+3 1 3 3 6
+================================
+NULL But you smoke !
+¡ Pero tú fumas !
+3 1 3 3 4
+================================
+NULL I' il just finish it off
+Es un pecado tirarlo .
+4 3 4 4 0
+================================
+NULL Are they dirty ?
+¿ Están sucias ?
+4 3 3 4
+================================
+NULL Clean them for me
+Límpialas por mí .
+1 3 1 0
+================================
+NULL Good- day
+Buen día .
+1 2 0
+================================
+NULL Please come in
+Por favor , pase .
+1 1 2 2 0
+================================
+NULL Am I intruding ?
+¿ Interrumpo algo ?
+4 1 1 4
+================================
+NULL Not at all .
+No del todo .
+1 2 3 4
+================================
+NULL This is our niece
+Ésta es nuestra sobrina .
+4 2 4 4 0
+================================
+NULL I owe a lot to your uncle
+Soy un estudiante del Profesor Komiya .
+2 3 2 2 2 2 0
+================================
+NULL Sir , I brought your book
+Señor , le traigo su libro .
+1 2 4 4 4 6 0
+================================
+NULL Good lad .
+Gracias .
+2 3
+================================
+NULL Sit down
+Ponte cómodo .
+1 1 0
+================================
+NULL It' s alright .
+Está bien .
+3 3 4
+================================
+NULL Please
+Por favor .
+1 1 0
+================================
+NULL It' s alright .
+Está bien .
+3 3 4
+================================
+NULL Please
+Por favor .
+1 1 0
+================================
+NULL How' d you like to be a tutor ?
+¿ Darías unas clases de repaso ?
+9 1 1 8 6 8 9
+================================
+NULL What subject ?
+¿ A quién ?
+3 2 2 3
+================================
+NULL For Fujio
+Se trata de Fujio .
+1 1 1 2 0
+================================
+NULL In junior high , already ?
+¿ De verdad ? ¿ Ya está tan mayor ?
+6 1 3 6 6 5 3 3 3 6
+================================
+NULL Will you ?
+¿ Lo harías ?
+3 1 1 3
+================================
+NULL But children and I ...
+No lo se ...
+2 2 2 5
+================================
+NULL It' d be easy for you .
+Necesito tu ayuda .
+4 4 4 7
+================================
+NULL Please do it
+Por favor .
+1 1 0
+================================
+NULL But the doctor ...
+Pero debo ayudar al profesor .
+1 3 3 3 3 0
+================================
+NULL He approves , don' t you ?
+Él te permitirá hacerlo . ¿ Verdad ?
+2 6 2 2 0 7 2 7
+================================
+NULL Then it' s settled ?
+¡ Está decidido !
+2 4 4 4
+================================
+NULL It' s been decided
+Vuelvo enseguida .
+4 4 0
+================================
+NULL Thanks a lot !
+¡ No sé qué decir !
+3 3 3 3 3 4
+================================
+NULL You' re stuck with it
+Hazle éste favor .
+3 3 3 2
+================================
+NULL Seems so
+Si ella lo dice .
+1 1 1 1 0
+================================
+NULL Area of the sea is 3 times that of the land 3/ 4 of which is in the northern hemisphere
+La superficie del agua es tres veces mayor ... ... que la de la tierra emergida .
+1 11 7 7 5 1 7 7 4 4 8 3 2 3 11 12 0
+================================
+NULL How many times is the area of the sea in relation to land in the northern hemisphere ?
+3/ 4 de la tierra emergida está en el hemisferio norte .
+16 16 7 5 13 16 6 10 5 6 6 0
+================================
+NULL How many times ...
+¿ Cuántas veces mayor es la superficie del agua respecto a la de tierra emergida ?
+1 2 3 3 2 2 3 3 3 2 2 2 2 2 2 1
+================================
+NULL Well , that' s ...
+Bien , es ...
+1 2 4 5
+================================
+NULL 3/ 4 of the sea is in the N. H ...
+3/ 4 de la tierra emergida está en el hemisferio norte ...
+1 2 3 4 1 1 10 7 4 10 10 11
+================================
+NULL Wait , I just have the thing !
+Espera un momento .
+1 4 1 0
+================================
+NULL It' s easy when you use this
+Ésto ayudará .
+6 6 0
+================================
+NULL That' s a good idea !
+¡ Buena idea !
+1 5 5 6
+================================
+NULL 3/ 4 of the area ...
+3/ 4 de la tierra emergida está en el hemisferio norte ...
+1 2 3 4 1 1 5 2 4 5 5 6
+================================
+NULL Ethiopia' s over here
+Etiopía está aquí ¿ sabes ? .
+1 1 4 1 1 0 0
+================================
+NULL How many times is the area of the sea in relation to land
+Cuántas veces mayor es la superficie del agua respecto de la tierra ...
+11 3 3 4 5 13 3 3 11 7 5 13 9
+================================
+NULL Studying ?
+¿ Estás estudiando ?
+2 1 1 2
+================================
+NULL Did you get question three ?
+Estoy con la tercera pregunta .
+1 1 4 1 4 0
+================================
+NULL How does it go ?
+- Ya la he respondido . - ¿ Cómo has hecho ?
+2 2 2 2 2 0 2 5 1 2 2 5
+================================
+NULL The earth' s area becomes 1 , then land area equals 1/ 4
+Debes considerar la superficie de la tierra como 1 .
+2 2 2 12 12 2 9 2 6 0
+================================
+NULL So land in the N. H. Is ...
+Entonces el área de tierra emergida es igual a 1/ 4
+1 4 6 2 2 5 7 6 6 6 5
+================================
+NULL 1/ 2 minus 3/ 16
+La superficie de tierra emergida es 1/ 2 menos 3/ 16 .
+5 1 1 4 4 3 3 2 3 4 5 0
+================================
+NULL Where' d you get the half ?
+¿ De dónde sacas 1/ 2 ?
+7 6 6 6 6 6 7
+================================
+NULL Oh , really ?
+¡ Ah , entiendo !
+3 3 2 3 3
+================================
+NULL So the equation is 5/ 16
+La superficie de agua del hemisferio norte es 5/ 16 .
+6 6 6 3 3 3 3 4 3 6 0
+================================
+NULL Where' d you graduate from ?
+¿ A qué colegio vas ?
+6 1 1 1 1 6
+================================
+NULL The university
+A la universidad
+2 2 2
+================================
+NULL You did graduate ?
+¿ De verdad ?
+4 3 3 4
+================================
+NULL Yes , I did
+Si .
+1 0
+================================
+NULL Junior high , too ?
+¿ Has hecho la escuela media ?
+5 1 1 1 1 1 5
+================================
+NULL Yes .
+Si .
+1 2
+================================
+NULL And you studied arithmetic ?
+¿ Y los exámenes de aritmética ?
+5 1 3 3 3 4 5
+================================
+NULL Of course
+Por supuesto .
+1 2 0
+================================
+NULL So we' ve nothing to worry about
+¡ Entonces nosotros también seremos admitidos !
+3 1 2 2 2 2 3
+================================
+NULL So it seems
+No me juzguen tan mal .
+3 3 3 3 3 0
+================================
+NULL Setsuko ?
+¡ Setsuko !
+1 1 1
+================================
+NULL Please come in
+Bienvenida .
+2 0
+================================
+NULL Hello
+Buenos días .
+1 1 0
+================================
+NULL Everything' s fine ?
+¿ Todo anda bien ?
+4 1 1 1 4
+================================
+NULL Yes , thank you .
+Si , gracias .
+3 2 3 5
+================================
+NULL You always look good
+Tú siempre tan elegante .
+1 2 3 3 0
+================================
+NULL You too , you look younger every time I see you
+Y tu cada vez más jóven .
+6 6 7 5 6 6 0
+================================
+NULL Your flattery has improved
+¡ Aduladora !
+2 2 2
+================================
+NULL I mean it
+Lo digo en serio .
+2 2 2 2 0
+================================
+NULL Your Aunt' s not coming
+¿ Tu tía no viene ?
+2 1 2 4 2 2
+================================
+NULL No , but I remembered you like these
+No , pero te he traído tu dulce preferido .
+1 2 3 6 5 5 5 5 5 0
+================================
+NULL Thank you very much
+Muchas gracias .
+1 1 0
+================================
+NULL This is from Aunty
+Ésta es una carta de la tía .
+4 2 4 4 3 4 4 0
+================================
+NULL Oh , really !
+¡ De veras !
+3 3 3 4
+================================
+NULL She helped get a tutor for Fujio
+Agradécele que me haya conseguido un profesor para Fujio .
+2 1 2 2 2 4 2 6 7 0
+================================
+NULL You ready ?
+La hago girar ...
+2 2 2 2
+================================
+NULL France !
+¡ Francia !
+1 1 2
+================================
+NULL Ready ?
+Ahora me toca a mí .
+1 1 1 1 1 0
+================================
+NULL India !
+¡ India !
+1 1 2
+================================
+NULL Canada !
+¡ Siam !
+1 1 2
+================================
+NULL No , it' s the ocean !
+¡ No , es el océano !
+3 1 2 4 5 6 7
+================================
+NULL Hello !
+¡ Buenos días !
+1 1 1 2
+================================
+NULL Hello !
+¡ Buenos días !
+1 1 1 2
+================================
+NULL You ready ?
+¿ Listo ? ...
+3 2 3 2
+================================
+NULL Taiwan !
+¡ Taiwan !
+1 1 2
+================================
+NULL Taiwan ?
+¿ Taiwan ?
+2 1 2
+================================
+NULL Wrong !
+¡ Oh , he fallado !
+1 1 1 1 1 2
+================================
+NULL What' re you playing ?
+¿ Qué hacen ?
+5 4 4 5
+================================
+NULL Ready !
+¡ Lista !
+1 1 2
+================================
+NULL North Pole
+Polo Norte
+1 1
+================================
+NULL That' s cheating !
+¡ El Polo Norte no vale !
+1 3 3 3 1 3 4
+================================
+NULL Is arithmetic so difficult ?
+¿ Es difícil la aritmética ?
+5 2 4 3 2 5
+================================
+NULL Really ?
+¿ Cierto ?
+2 1 2
+================================
+NULL I don' t think I could pass his exam myself
+Si yo hubiera hecho ese examen hubiera suspendido .
+10 9 9 9 9 9 9 9 0
+================================
+NULL What a teacher !
+¡ No exagere !
+3 3 3 4
+================================
+NULL I' m serious
+Lo digo en serio .
+1 3 3 3 0
+================================
+NULL An unreliable teacher !
+¡ Será culpa del profesor !
+3 1 1 1 1 4
+================================
+NULL Uncle ?
+¿ Tío ? ¿ Estás estudiando ?
+2 1 2 2 1 1 2
+================================
+NULL Are you working ?
+Si
+1
+================================
+NULL I came for a quick smoke
+Sólo vengo a fumar un cigarrillo .
+5 5 5 5 4 5 0
+================================
+NULL Aunty' s rather strict
+La tía siempre me recrimina .
+1 1 1 1 1 0
+================================
+NULL Still playing golf ?
+¿ Aún juegas al golf ?
+4 1 1 1 1 4
+================================
+NULL Yes , I am
+Si .
+1 0
+================================
+NULL I play most Saturdays
+Juego casi todos los sábados .
+3 3 3 3 3 0
+================================
+NULL How did it go ?
+¿ Cuántos puntos haces ?
+5 2 2 2 5
+================================
+NULL About 33- 34
+33 o 34 .
+2 2 2 0
+================================
+NULL That' s quite big
+Con eso no hay necesidad de handicap .
+4 4 1 4 4 4 4 0
+================================
+NULL I got quite good but I gave it up
+Yo soy buena , pero lo dejé .
+7 7 7 1 5 8 7 0
+================================
+NULL So you sing ' " kiyomoto ' " ?
+¿ Así que estudias recitación ?
+9 1 3 3 3 9
+================================
+NULL Is that so ?
+Eso me place .
+1 1 1 0
+================================
+NULL You' re not golfing today ?
+¿ No juegas al golf hoy ?
+6 3 4 4 4 5 6
+================================
+NULL I have to work on this So I won' t go today
+Hoy tengo que estudiar .
+12 2 1 12 0
+================================
+NULL Don' t listen to anything she says .
+No le hagas caso a nada de lo que diga
+1 7 7 7 4 5 7 6 6 7
+================================
+NULL She' s a holographic representation of the Red Queen .
+Ella es una imagen Holográfica de la reina roja .
+1 2 3 4 4 6 7 4 4 10
+================================
+NULL You have to get out !
+Ustedes tienen que salir .
+4 2 2 5 0
+================================
+NULL Modeled after the head programmer' s daughter .
+Esta modelada de la hija del programador en jefe .
+1 1 1 3 1 2 1 1 4 8
+================================
+NULL She' il try to deceive us , confuse us .
+Tratara de engañarnos , Confundirlos .
+8 1 8 7 8 10
+================================
+NULL I wouldn' t advise this .
+Yo no Aconsejaría esto .
+4 3 4 5 6
+================================
+NULL Disabling me will result in loss of primary power .
+Si me deshabilitan voy a perder la energia
+1 2 1 1 1 1 1 1
+================================
+NULL She' il say anything to stop us from shutting her down .
+Ella diría cualquier cosa para Detenernos que la apaguemos .
+1 9 9 9 6 9 7 10 9 12
+================================
+NULL I implore you .
+Les suplico .
+2 2 4
+================================
+NULL - Implore away .
+- Suplica todo lo que quieras .
+1 2 2 2 2 2 4
+================================
+NULL - Please ?
+- Por favor ?
+1 2 2 3
+================================
+NULL Please ?
+Por favor ?
+1 1 2
+================================
+NULL You' re all going to die down here .
+Todos ustedes van a morir aquí abajo ..
+6 1 1 5 6 8 7 1
+================================
+NULL That pulse forces the circuit breaker to shut down her mainframe for 30 seconds .
+Ese pulso obliga a los interruptores que apaguen el Main frame por 30 segundos
+5 2 2 7 2 2 5 2 4 2 2 12 2 2
+================================
+NULL After that , if I don' t have her board , she can reboot .
+Después de eso si no tiene la placa ella no se puede reiniciar .
+1 1 10 4 7 10 9 10 12 7 10 13 10 15
+================================
+NULL They' re late .
+Están atrasados .
+1 3 4
+================================
+NULL I' m on it .
+Yo me encargo .
+2 1 2 5
+================================
+NULL J. D. , we got a survivor !
+J . D . , tenemos un sobreviviente !
+1 0 2 0 3 7 6 7 8
+================================
+NULL It' s okay .
+Esta bien .
+3 3 4
+================================
+NULL We' re here to help .
+Estamos aquí para ayudar .
+1 3 1 5 6
+================================
+NULL You seem to be in some serious --
+Pareces estar en algún tipo de ....
+2 2 5 6 2 4 2
+================================
+NULL Get off of me !
+Quitate de encima !
+1 3 2 5
+================================
+NULL Get off of me !
+Quitate de encima !
+1 3 2 5
+================================
+NULL J. D. , get her off of me before I stab her ass !
+J . D . , quitádmela de encima mío Antes que le pate el culo !
+1 0 2 0 3 11 7 6 11 11 10 5 11 13 11 14
+================================
+NULL Are you okay ?
+Estas bien ?
+1 3 4
+================================
+NULL She bit me , man .
+Hombre !
+2 2
+================================
+NULL Stay down .
+Quedate quieta
+1 1
+================================
+NULL I' m warning you , stay down !
+Te lo Advierto QUEDATE QUIETA !!
+3 3 3 3 3 3
+================================
+NULL She' s crazy .
+Esta loca .
+3 3 4
+================================
+NULL Come any closer , and I' il fire .
+Si te acercas te disparo .
+8 8 8 8 8 9
+================================
+NULL I mean it !
+Lo digo en serio !
+2 2 2 2 4
+================================
+NULL Damn you .
+Me cago en vos !
+1 1 1 1 1
+================================
+NULL I shot her five times .
+Le dispare 5 veces .
+2 4 4 5 6
+================================
+NULL How was she still standing ?
+Como seguia parada ?
+5 5 5 6
+================================
+NULL Bitch isn' t standing now .
+La perra no esta de pie ahora .
+1 1 3 1 2 1 5 6
+================================
+NULL - What was all the shooting ?
+- Por que los disparos ?
+1 6 3 6 6 7
+================================
+NULL - We found a survivor .
+- Encontramos un sobreviviente .
+1 3 4 5 6
+================================
+NULL - And you shot him ?
+- Y le disparaste ?
+1 2 5 4 6
+================================
+NULL - She was crazed .
+- Estaba loca .
+1 4 4 5
+================================
+NULL She bit me .
+Me mordió .
+3 2 4
+================================
+NULL She' s gone .
+Se fue .
+3 3 4
+================================
+NULL She' s gone !
+Se fue !
+3 3 4
+================================
+NULL That' s bullshit !
+Me estas Cargando !
+3 3 3 4
+================================
+NULL Look , look at this .
+Miren , Miren esto .
+1 2 1 5 6
+================================
+NULL There' s blood , but it' s not much .
+Sangre pero no mucha .
+3 5 8 3 10
+================================
+NULL Looks like it' s coagulated .
+Parece que se coagulo .
+1 1 1 1 6
+================================
+NULL - Yeah .
+- Sip .
+1 2 3
+================================
+NULL - It' s not possible .
+- Eso no es posible .
+1 5 4 3 5 6
+================================
+NULL Why not ?
+Porque no ?
+1 2 3
+================================
+NULL Because blood doesn' t do that till after you' re dead .
+Porque la sangre no hace eso hasta después que estés muerto .
+1 8 2 3 3 9 7 8 6 9 11 12
+================================
+NULL Can we go now ?
+Nos podemos ir , ahora ?
+1 1 3 2 4 5
+================================
+NULL We' re not going anywhere till the rest of the team get here .
+No nos vamos a ir a ningún lugar hasta que llegue el resto del equipo .
+3 8 8 4 8 4 8 8 6 6 8 7 8 5 11 14
+================================
+NULL - There' s no one else coming .
+- Nadie más va a venir .
+1 7 7 6 7 7 8
+================================
+NULL - What the fuck are you talking about ?
+- Que mierda estas diciendo ?
+1 2 4 7 7 9
+================================
+NULL Wait .
+Espera .
+1 2
+================================
+NULL Quiet .
+Silencio .
+1 2
+================================
+NULL Fuck !
+Mierda !
+1 2
+================================
+NULL Don' t come any closer !
+No se acerquen !
+1 4 5 6
+================================
+NULL They' re behind us .
+Están detrás de nosotros .
+1 3 3 4 5
+================================
+NULL Jesus !
+Jesús !
+1 2
+================================
+NULL They' re everywhere .
+Están por todas partes .
+1 3 3 3 4
+================================
+NULL They' re everywhere .
+Están por todas partes .
+1 3 3 3 4
+================================
+NULL They' re all around us .
+Están todo alrededor nuestro .
+1 3 4 4 6
+================================
+NULL I said stay back !
+Dije que se mantengan atrás !
+2 1 3 3 4 5
+================================
+NULL Why aren' t they dying ?
+Porque no están muriendo ?
+1 3 2 2 6
+================================
+NULL Watch the tank !
+Cuidado con el tanque !
+1 1 2 3 4
+================================
+NULL The tank !
+El tanque !
+1 2 3
+================================
+NULL - Let' s go !
+" MEDIO AMBIENTE INESTABLE " - vamos !
+2 2 2 2 2 1 4 5
+================================
+NULL - Hurry up !
+- Apurense !
+1 2 4
+================================
+NULL - Wait !
+- Espera !
+1 2 3
+================================
+NULL - Come on , let' s go !
+- Vamos , muevanse !
+1 2 4 5 8
+================================
+NULL - Move !
+- Muevanse !
+1 2 3
+================================
+NULL Move !
+Muevete !
+1 2
+================================
+NULL I have access to security codes , surveillance plans , the works .
+Tengo acceso a códigos de seguridad , planos de seguridad , todo .
+9 3 4 6 5 5 7 8 5 5 7 9 13
+================================
+NULL Shit !
+Mierda !
+1 2
+================================
+NULL - We lost the others !
+- Perdimos a los otros !
+1 5 3 5 5 6
+================================
+NULL - Keep moving !
+- Sigue !
+1 2 4
+================================
+NULL - You waited ?
+- Estas eperando ?
+1 3 3 4
+================================
+NULL - Didn' t know the code .
+- No sabía el código .
+1 3 2 5 6 7
+================================
+NULL Come on , come on .
+Vamos , Vamos .
+1 3 1 6
+================================
+NULL - Shit !
+- Mierda !
+1 2 3
+================================
+NULL - Come on .
+- Vamos .
+1 2 4
+================================
+NULL - Come on .
+- Vamos .
+1 2 4
+================================
+NULL - Hurry up .
+- Apurate .
+1 2 4
+================================
+NULL - Come on , man .
+- Vamos , Hombre .
+1 2 4 2 6
+================================
+NULL - Shit !
+- Mierda !
+1 2 3
+================================
+NULL - What' s taking so long ?
+- Cual es la demora ?
+1 4 3 5 4 7
+================================
+NULL - I' m trying !
+- Lo estoy intentando !
+1 2 3 4 5
+================================
+NULL Come on .
+Vamos .
+1 3
+================================
+NULL - Move !
+- Muevete !
+1 2 3
+================================
+NULL What' s the code ?
+Cual es el código ??
+4 2 3 4 1
+================================
+NULL - Hurry up !
+- Rápido !
+1 2 4
+================================
+NULL I' m running out of ammo !
+Se me acaban las municiones !
+6 1 6 6 6 7
+================================
+NULL - What ?
+- Que ??
+1 2 2
+================================
+NULL - Zero , four , three --
+- 0 , 4, 3 , ...
+1 2 3 2 2 3 7
+================================
+NULL - What is the code ?
+- Cual es el código ?
+1 5 3 4 5 6
+================================
+NULL - Zero , four ... zero , three , one ... nine , six , five .
+- 0 , 4 ... 0 , 3 , 1 ... 9 , 6 , 5 .
+1 2 3 12 5 2 3 2 3 12 5 12 3 12 3 16 17
+================================
+NULL - Got it ?
+- Lo tengo !
+1 2 2 2
+================================
+NULL - See how easy that was ?
+- Viste cuanto fácil era ?
+1 2 2 2 6 7
+================================
+NULL - Shit !
+- Mierda !
+1 2 3
+================================
+NULL - J. D. , no !
+- J . D . , no !
+1 2 0 3 0 4 5 6
+================================
+NULL Grab my hand , man !
+Agarra mi mano !
+1 2 3 6
+================================
+NULL Come on !
+VAMOS !!
+1 1
+================================
+NULL Don' t let go !
+No suelten !
+1 3 5
+================================
+NULL - J. D. !
+- J . D . !
+1 2 0 3 0 4
+================================
+NULL - Rain !
+- Rain !
+1 2 3
+================================
+NULL Where are the bodies ?
+Donde están los cuerpos ?
+1 4 4 4 5
+================================
+NULL Where did they go ?
+Donde se fueron
+1 3 1
+================================
+NULL Fuck !
+Mierda !
+1 2
+================================
+NULL Whatever they are , there' s too many of them out there .
+Lo que sea que son , hay demasiados .
+1 2 5 2 5 4 5 5 13
+================================
+NULL Whatever they are ?
+¿ Lo que sean ?
+4 1 2 1 4
+================================
+NULL It' s pretty obvious what they are .
+Es bien obvio lo que son .
+4 4 4 5 6 4 8
+================================
+NULL All the people working here are dead .
+Todo personal que trabajaba aquí esta muerto .
+1 4 6 4 5 4 7 8
+================================
+NULL Well , that isn' t stopping them from walking around .
+Evidentemente eso no los detiene de andar caminando por ahi .
+6 3 5 7 6 8 6 6 6 6 11
+================================
+NULL Well , where did they come from ?
+Pero , de donde vienen ?
+1 2 7 3 1 8
+================================
+NULL Why didn' t we see them on the way in ?
+Porque no los vimos cuando entramos ?
+1 2 6 2 2 2 11
+================================
+NULL When you cut the power , you unlocked the doors .
+Cuando cortaste la electricidad , abriste las puertas .
+1 8 4 5 6 8 10 10 11
+================================
+NULL You let them out .
+Tu los dejastes salir .
+2 3 2 4 5
+================================
+NULL We' re never gonna make it to the surface .
+Nunca vamos a lograr llegar a la superficie .
+3 9 7 5 9 7 8 9 10
+================================
+NULL You are security operatives .
+Tú eres un agente de seguridad .
+1 4 4 4 3 3 5
+================================
+NULL Security operatives placed there to protect that entrance .
+Un agente de seguridad Ubicada ahí para proteger esa entrada .
+1 2 2 1 1 1 1 1 1 1 9
+================================
+NULL I' ve got one in the breech and an extra mag .
+Tengo una recamara y un extra clip .
+7 4 7 8 9 7 7 12
+================================
+NULL Lisa ?
+Lisa ?
+1 2
+================================
+NULL I can help you get the virus .
+Te puedo ayudar a obtener el virus .
+5 2 3 3 3 6 7 8
+================================
+NULL - But there' s gonna be a price .
+- Pero va a haber un precio .
+1 2 5 5 8 7 8 9
+================================
+NULL - Name it .
+- Dilo .
+1 2 4
+================================
+NULL - Who was she ?
+- Quien era ella ?
+1 2 3 4 5
+================================
+NULL - My sister .
+- Mi Hermana .
+1 2 2 4
+================================
+NULL Corporations like Umbrella think they' re above the law .
+Corporaciones como Umbrella Se creen estar Sobre la ley .
+1 2 1 1 1 1 1 8 1 10
+================================
+NULL But they' re not .
+Pero no lo están .
+1 4 2 2 5
+================================
+NULL There are hundreds of thousands of us who think the same ... all over the world .
+Hay cientos de miles De nosotros que pensamos igual ... en todo el mundo .
+1 3 4 3 3 7 8 3 3 12 11 13 10 16 17
+================================
+NULL Some take more direct action .
+Algunos toman acciones mas directas .
+1 1 1 1 1 6
+================================
+NULL Like you .
+Como tu .
+1 1 3
+================================
+NULL If your friends had been a little more thorough ... they would' ve seen right through my false ID .
+Si tus amigos hubieran sido más minuciosos ... se hubieran dado cuenta de mi identificación falsa .
+1 9 3 12 5 8 9 10 12 12 9 9 4 17 9 9 20
+================================
+NULL Then all the red flags would' ve gone off --
+Y entonces todas las banderas rojas se hubieran visto ...
+10 4 5 5 5 4 6 6 4 10
+================================
+NULL Quantico , NSA , ViCAP , all the rest .
+Quantico , NSA , ViCAP , y todo el resto .
+1 2 1 2 1 2 1 7 8 9 10
+================================
+NULL There' s no way I could' ve infiltrated the Hive .
+No hubiera habido manera de que yo entrara al nido .
+6 8 8 4 4 5 8 8 8 10 11
+================================
+NULL So you sent your sister .
+Así a que mandaste a tu hermana .
+1 3 3 3 3 4 5 6
+================================
+NULL We needed something concrete .
+Necesitábamos algo concreto .
+4 3 4 5
+================================
+NULL Anything to expose Umbrella to the press .
+Cualquier cosa que hubiera expuesto a umbrella a la prensa .
+1 1 1 1 1 2 4 2 6 1 8
+================================
+NULL Proof of the research that was going on down here .
+Prueba de la investigación que estaba ocurriendo aquí abajo .
+1 2 3 4 5 1 1 10 9 11
+================================
+NULL What kind of research ?
+Que tipo de investigación ?
+1 2 3 4 5
+================================
+NULL The illegal kind .
+La del Tipo Ilegal .
+1 2 2 2 4
+================================
+NULL Genetic .
+Genetica .
+1 2
+================================
+NULL Viral .
+Viral .
+1 2
+================================
+NULL My sister was going to smuggle out ... a sample of the virus they were developing .
+Mi hermana iba a cotrabandear una muestra ... del virus que estaban desarrollando .
+1 2 6 5 6 9 6 8 6 13 14 6 6 17
+================================
+NULL So how was she going to make it out of here ?
+Como iba a lograr salir de aquí ?
+7 7 6 7 9 10 11 12
+================================
+NULL She had a contact within the Hive , someone I never met .
+Ella tenia un contacto dentro de el nido alguien que nunca yo eh conocido .
+1 5 3 4 5 2 6 7 5 10 11 5 5 5 13
+================================
+NULL They had access to security codes , surveillance , everything she needed .
+Tenía acceso a códigos de seguridad , planos , todo lo que ella necesitaba .
+8 3 4 6 1 5 7 8 7 10 11 2 11 8 13
+================================
+NULL So why didn' t she make it ?
+Entonces porque no lo logro ?
+1 2 3 7 6 8
+================================
+NULL Maybe she trusted the wrong person .
+Talvez confió en la persona equivocada .
+1 1 1 4 1 1 7
+================================
+NULL Do you know how much the T- virus would be worth on the open market ?
+tienes alguna idea de qué valor el virus T tendría en el mercado libre ?
+11 11 11 10 11 11 6 8 7 11 15 6 15 11 16
+================================
+NULL Don' t shoot !
+No disparen !
+1 3 4
+================================
+NULL Don' t shoot !
+No disparen !
+1 3 4
+================================
+NULL - Close that door !
+- Cierren esa puerta !
+1 2 2 4 5
+================================
+NULL - They' re right behind us !
+- Están directamente detrás nuestro !
+1 2 2 5 2 7
+================================
+NULL Get off ! .
+Sueltame ! .
+1 3 4
+================================
+NULL Get off ! .
+Sueltame ! .
+1 3 4
+================================
+NULL Stop it !
+Detenlo !
+1 3
+================================
+NULL Son of a bitch !
+Hijo de PUTA !
+1 2 1 5
+================================
+NULL - They' re waiting out there too .
+- Tambien estan de ese lado .
+1 4 4 5 4 4 8
+================================
+NULL - And that way ?
+- Y por aqui ?
+1 2 4 4 5
+================================
+NULL So we wait .
+Entonces , esperamos ..
+1 2 3 3
+================================
+NULL If someone doesn' t hear from you , they' il send backup or something .
+Si no saben de ustedes , Mandaran respaldos , o algo .
+1 3 12 6 12 8 12 12 8 13 14 15
+================================
+NULL Right ?
+Cierto ?
+1 2
+================================
+NULL What ?
+que ?
+1 2
+================================
+NULL What' s wrong ?
+Que pasa ?
+1 3 4
+================================
+NULL We don' t have much time .
+No tenemos mucho tiempo .
+3 1 5 6 7
+================================
+NULL You know those blast doors we passed ... on the way in from the mansion ?
+¿ Sabes ? esas puertas de vidrio que pasamos ... cuando vinimos de la mansión ?
+16 4 16 3 5 13 4 4 4 8 4 4 13 10 4 16
+================================
+NULL They seal shut in just under an hour .
+Se cierran en menos de una hora .
+2 2 4 2 1 7 8 9
+================================
+NULL If we' re not out of here by then , we' re not getting out .
+Si no salimos hasta entonces no saldremos nunca .
+1 4 14 14 9 4 14 14 16
+================================
+NULL What are you talking about ?
+De que están hablando ?
+4 2 2 4 6
+================================
+NULL They can' t just bury us alive down here .
+Ellos no pueden enterrarnos vivos .
+5 3 5 5 5 10
+================================
+NULL Containing the incident is the only fail- safe plan they had ... against possible contamination .
+Conteniendo el incidente es el único plan seguro que tenían ... contra posible contaminación .
+1 2 1 4 2 1 1 1 10 1 12 13 14 1 16
+================================
+NULL We have to find a way out of this room .
+Tenemos que encontrar Una salida en esa recamara .
+1 2 4 4 4 10 4 4 11
+================================
+NULL What are you doing ?
+Que haces ?
+1 4 5
+================================
+NULL - Where are you taking those ?
+- Adonde llevas eso ?
+1 5 5 5 7
+================================
+NULL - I' m turning her back on .
+- Voy a Encenderla de nuevo .
+1 4 4 4 6 4 8
+================================
+NULL - That is not a good idea .
+- No es una buena idea .
+1 4 3 5 7 7 8
+================================
+NULL - She' il know a way out of here .
+- Ella sabrá la manera de salir de aqui .
+1 2 2 3 6 8 7 8 6 10
+================================
+NULL That homicidal bitch killed my team .
+Esa perra homicida mato a mi equipo .
+2 3 2 6 4 5 6 7
+================================
+NULL That homicidal bitch may be our only way out of here .
+Esa perra homicida talvez sea la única manera de salir de aqui .
+2 3 2 4 4 3 4 8 10 9 10 8 12
+================================
+NULL Considering the way she' s being treated , I' m sure she' il be happy to help us out .
+Considerando como la tratamos , seguro estara feliz de ayudarnos .
+1 7 2 7 8 1 1 15 19 1 20
+================================
+NULL That circuit breaker you were talking about .
+Ese interruptor que estabas hablando ,
+2 2 2 5 6 4
+================================
+NULL So do it .
+Entonces , hazlo .
+1 3 2 4
+================================
+NULL All right , circuit breaker is disabled .
+ok , interuptor listo .
+7 3 7 7 8
+================================
+NULL Kaplan ?
+Kaplan ?
+1 2
+================================
+NULL The initial charge must have damaged her boards .
+La descarga inicial la debe haber dañado .
+1 2 2 7 2 2 2 9
+================================
+NULL Ah , there you are .
+Ah , ahi estan .....
+1 2 3 1 1
+================================
+NULL Things , I gather , have gone out of control .
+Parece , que las cosas se salieron de control .
+1 2 3 1 1 1 1 9 1 11
+================================
+NULL Give me that fucking switch right now .
+Damne ese Puto boton ahora .
+4 4 4 4 7 8
+================================
+NULL I' m gonna fry your ass .
+Le voy a Freir el Culo !!
+4 4 3 4 6 4 4
+================================
+NULL I did warn you , didn' t I ?
+Se los adverti , o no ?
+3 3 3 5 3 6 9
+================================
+NULL Tell us what' s going on down here .
+Dinos que Mierda sucede aqui .
+1 2 1 1 1 9
+================================
+NULL Research and development .
+Investigación y desarrollo .
+1 2 1 4
+================================
+NULL What about the T- virus ?
+Y que del virus T ?
+2 2 4 5 4 6
+================================
+NULL How does it explain those things out there ?
+Y como explica las cosas de ahi afuera ?
+6 4 4 6 6 7 8 4 9
+================================
+NULL New cells are produced ... and the brain itself holds a small electrical charge ... that takes months to dissipate .
+Nuevas células son producidas ... y el Cerebro en si mantiene pequeñas cargas electricas ... que toman meses para que se discipen .
+2 2 2 2 5 6 7 2 17 2 2 2 2 2 5 16 2 18 2 16 8 2 21
+================================
+NULL The T- virus provides a massive jolt ... both to cellular growth ... and to those trace electrical impulses .
+El virus T entrega una gran carga al ... crecimiento celular ... y a esos impulsos eléctricos .
+1 3 2 4 5 4 4 4 8 4 11 8 14 10 4 4 4 20
+================================
+NULL Put quite simply ... it reanimates the body .
+Pero simplemente ... regenera al cuerpo .
+1 1 4 1 1 1 9
+================================
+NULL It brings the dead back to life ?
+Devuelve a los muertos a la vida ?
+2 6 2 2 6 3 7 8
+================================
+NULL Not fully .
+No Completamente .
+1 2 3
+================================
+NULL The subjects have the simplest of motor functions .
+Solo tienen las mas simples funciones motoras .
+5 5 5 5 5 5 5 9
+================================
+NULL Which is ?
+Y esa es .... ?
+1 1 2 1 3
+================================
+NULL The need to feed .
+La necesidad de comer .
+1 4 4 4 5
+================================
+NULL How do you kill them ?
+Como los matas ?
+4 5 4 6
+================================
+NULL You mean shoot them in the head .
+Quieres decir disparandoles en la cabeza .
+3 2 3 5 6 7 8
+================================
+NULL Why did you kill everybody down here ?
+Porque mataste a todos aquí abajo ?
+1 5 5 5 7 6 8
+================================
+NULL It' s almost impossible to kill .
+Es casi imposible de matar .
+4 4 4 4 6 7
+================================
+NULL - Steps .
+- Acción .
+1 2 3
+================================
+NULL - You must understand .
+- Deben entender ....
+1 4 4 4
+================================
+NULL Those who become infected , I can' t allow you to leave .
+Que a los que se infectan no los puedo dejar salir .
+9 11 9 2 3 9 8 9 7 12 9 13
+================================
+NULL Whoa .
+Heeee .
+1 2
+================================
+NULL We' re not infected .
+No estamos infectados .
+3 1 4 5
+================================
+NULL Just one bite , one scratch from these creatures is sufficient ... and then you become one of them .
+Tan solo una mordida , un rasguño de esas creaturas ya es suficiente ... y luego te conviertes en uno de ellos .
+1 1 2 3 4 11 3 18 3 3 3 10 11 12 13 3 15 3 16 2 18 3 20
+================================
+NULL A check of my systems indicates my main drive circuit breaker ... has been disabled .
+Una revision de mis sistema me informa que mi circuito interuptor ... se deshabilito .
+6 6 3 6 6 9 6 10 4 6 15 12 6 6 16
+================================
+NULL May I ask why ?
+Puedo preguntar porque ?
+1 3 1 5
+================================
+NULL If you refuse to help at any time , we flip the switch .
+Si te llegas a negar , te quemamos .
+1 2 3 4 3 9 2 3 14
+================================
+NULL Understand ?
+Entendido ?
+1 2
+================================
+NULL After you .
+Despues de ti .
+1 1 1 3
+================================
+NULL What the hell is this place ?
+Que lugar es este ??
+1 6 4 3 3
+================================
+NULL The utility tunnels .
+The utility tunnels .
+2 2 2 4
+================================
+NULL They run underneath the Hive for water , gas and power lines .
+Los túneles de servicios , del el nido , para agua , gas , y electricidad .
+3 3 1 3 8 3 4 5 8 6 3 8 3 8 10 11 13
+================================
+NULL - It' s been in here before .
+- Hemos estado aquí antes .
+1 7 4 6 7 8
+================================
+NULL - Keep moving .
+- Sigan moviéndose .
+1 3 3 4
+================================
+NULL - We' re going around in circles .
+- Vamos en círculos .
+1 7 6 7 8
+================================
+NULL - This is the route the computer gave us .
+- Esta es la ruta que nos dio la computadora .
+1 2 3 4 5 9 9 8 4 7 10
+================================
+NULL - Why are you listening to her ?
+- Y porque le hacen caso ?
+1 5 5 7 5 5 8
+================================
+NULL - Enough already !
+- Suficiente !
+1 2 4
+================================
+NULL We have no choice but to keep moving ' cause those things are right behind us .
+No tenemos otra opcion mas que seguir esas cosas estan detras nuestro .
+10 1 4 4 7 2 7 11 12 7 7 7 17
+================================
+NULL Jesus Christ !
+Jesus Cristo !
+2 2 3
+================================
+NULL Hold it !
+Sostenlo !
+1 3
+================================
+NULL There' s too many of them !
+Son muchos !!
+1 1 1
+================================
+NULL - Jesus !
+- Jesús !
+1 2 3
+================================
+NULL - Fuck !
+- Mierda !
+1 2 3
+================================
+NULL Up on the pipes .
+Arriba de las cañerías .
+4 4 4 4 5
+================================
+NULL Up on the pipes !
+Arriba de las cañerías !
+4 4 4 4 5
+================================
+NULL Quickly , everyone !
+Rápido !
+1 4
+================================
+NULL - Let' s go !
+- Muevanse !
+1 2 5
+================================
+NULL - Come on !
+- Vamos !
+1 2 4
+================================
+NULL There' s a way up !
+Hay una manera de subir !
+1 3 4 4 1 6
+================================
+NULL Go on up !
+Suban !
+1 4
+================================
+NULL Move it !
+Muevanse !
+1 3
+================================
+NULL Shit .
+Mierda .
+1 2
+================================
+NULL Okay .
+Ok .
+1 2
+================================
+NULL Go on !
+Sigan !
+1 3
+================================
+NULL I can manage !
+Vamos !
+3 4
+================================
+NULL Gotcha !
+Apresurate !
+1 2
+================================
+NULL Rain ?
+Rain ?
+1 2
+================================
+NULL Rain .
+Rain .
+1 2
+================================
+NULL What ?
+Que
+1
+================================
+NULL We have to do something about your wounds .
+Tenemos que curar tus heridas .
+1 2 8 8 8 9
+================================
+NULL I' m fine .
+Estoy bien .
+3 3 4
+================================
+NULL I said I' m fine .
+Dije que estoy BIEN !
+2 1 4 5 2
+================================
+NULL You like that , don' t you ?
+Les gusta , no ?
+5 2 4 6 8
+================================
+NULL Huh ?
+Hah ?
+1 2
+================================
+NULL You like the way it tastes , don' t you ?
+Les gusta como sabe , no es cierto ?
+8 6 2 6 7 9 6 6 11
+================================
+NULL Like the taste of that ?
+Les gusta el sabor ?
+3 3 2 3 6
+================================
+NULL She was right .
+Tenia razón .
+1 3 4
+================================
+NULL We' re all gonna die down here .
+Todos moriremos aqui abajo .
+5 5 5 6 8
+================================
+NULL No .
+No .
+1 2
+================================
+NULL We' re getting out .
+Saldremos .
+3 5
+================================
+NULL All of us .
+Todos .
+1 4
+================================
+NULL Kaplan , are you okay ?
+Kaplan , estas bien ?
+1 2 1 5 6
+================================
+NULL Oh , God !
+Oh , Dios !
+1 2 3 4
+================================
+NULL Hold on !
+Aguanta !
+1 3
+================================
+NULL - Help him .
+- Ayudenlo .
+1 2 4
+================================
+NULL - I can' t .
+- No puedo .
+1 4 3 5
+================================
+NULL - What are you waiting for ?
+- Que esperas ?
+1 2 5 7
+================================
+NULL - I can' t focus !
+- No puedo enfocar !
+1 4 3 5 6
+================================
+NULL I can' t see !
+No puedo ver !
+3 2 4 5
+================================
+NULL - Kaplan , go up !
+- Kaplan , Sube !
+1 2 3 5 6
+================================
+NULL - Get up there !
+- Sube ahi !
+1 3 4 5
+================================
+NULL You almost got it .
+Casi lo logras .
+2 4 3 5
+================================
+NULL Keep going !
+Sigue !
+1 3
+================================
+NULL - Come on !
+- Vamos !
+1 2 4
+================================
+NULL Come on !
+Vamos !
+1 3
+================================
+NULL - You can do it !
+- Tu puedes !
+1 3 3 6
+================================
+NULL You got it !
+lo logras !
+3 2 4
+================================
+NULL - Okay , Kaplan .
+- Ok , Kaplan .
+1 2 3 4 5
+================================
+NULL - Just stay there !
+- Quedate ahi !
+1 3 4 5
+================================
+NULL Hold on .
+Aguanta .
+1 3
+================================
+NULL We' re gonna come get you .
+Te sacaremos de ahi .
+5 1 2 1 7
+================================
+NULL Cut this wire and throw it to him .
+Corta el alambre y tiraselo .
+1 1 1 4 1 9
+================================
+NULL Then we can go get him .
+Luego llegaremos hasta el .
+5 5 5 5 7
+================================
+NULL Hold on !
+Alto !
+1 3
+================================
+NULL That' s lucky .
+Esto es suerte .
+3 2 3 4
+================================
+NULL I want you to go .
+Quiero que se vayan .
+2 1 2 2 6
+================================
+NULL - We' re not leaving you , Kaplan .
+- No te dejaremos , Kaplan .
+1 4 6 8 7 8 9
+================================
+NULL - Yes , you are .
+- Si , lo haran .
+1 2 3 5 2 6
+================================
+NULL I want you to go .
+Quiero que se vayan .
+2 1 2 2 6
+================================
+NULL Now !
+Ahora !
+1 2
+================================
+NULL Please .
+Por favor .
+1 1 2
+================================
+NULL Just do it .
+Tan solo aganlo .
+1 1 1 4
+================================
+NULL Just do it now !
+Tan solo aganlo Ahora !
+1 1 1 1 5
+================================
+NULL Please .
+Por favor .
+1 1 2
+================================
+NULL Go !
+Vayanse !
+1 2
+================================
+NULL You' re gonna have to work for your meal !
+Tendran que obtener su comida !
+9 4 9 9 9 10
+================================
+NULL Come on .
+Vamos .
+1 3
+================================
+NULL Give me your arm .
+Dame tu brazo .
+1 3 4 5
+================================
+NULL Up over my shoulder .
+Sobre mi hombro .
+4 3 4 5
+================================
+NULL When I get out of here ...
+Cuando salga de aquí ...
+1 1 5 6 7
+================================
+NULL I think I' m gonna get laid .
+Creo que voy a culear .
+7 1 7 5 7 8
+================================
+NULL Yeah .
+Sip .
+1 2
+================================
+NULL You might want to clean up a little bit first .
+Pero creo que deberías limpiarte un poco antes .
+2 2 2 2 2 7 8 2 11
+================================
+NULL Hey , wait .
+Hey , Espera .
+1 2 3 4
+================================
+NULL Are you okay ?
+Estas bien ?
+1 3 4
+================================
+NULL - What are you talking about ?
+- De que hablas ?
+1 5 3 5 7
+================================
+NULL There' s a cure .
+Hay una cura .
+4 4 4 5
+================================
+NULL The process can be reversed .
+El proceso se puede revertir .
+1 2 2 3 2 6
+================================
+NULL I was beginning to worry .
+Comenzaba a preocuparme .
+3 4 3 6
+================================
+NULL This is where they kept the T- virus .
+Aquí mantenían el virus T .
+5 5 6 8 7 9
+================================
+NULL How do you know all this ?
+Como sabes todo esto ?
+1 4 5 6 7
+================================
+NULL Because I was gonna steal it .
+Porque me lo iba a robar .
+1 5 6 5 4 5 7
+================================
+NULL I was your sister' s contact .
+Yo era el contacto de tu hermana .
+4 2 6 6 4 3 4 7
+================================
+NULL - You betrayed her .
+- Tú la traicionaste .
+1 3 4 3 5
+================================
+NULL - I don' t know .
+- No lo se .
+1 4 3 5 6
+================================
+NULL - You caused all of this .
+- Tú causaste todo esto .
+1 3 3 4 6 7
+================================
+NULL - I can' t remember .
+- No me acuerdo .
+1 4 5 5 6
+================================
+NULL The truth .
+La verdad .
+1 2 3
+================================
+NULL I don' t remember the truth .
+No recuerdo la verdad .
+3 4 5 6 7
+================================
+NULL I don' t understand !
+No entiendo !
+3 4 5
+================================
+NULL It' s gone .
+Se fue .
+3 3 4
+================================
+NULL It' s not there .
+No esta ahi .
+3 4 4 5
+================================
+NULL I can' t .
+No puedo .
+3 2 4
+================================
+NULL I just can' t .
+Simplemente no puedo .
+2 4 3 5
+================================
+NULL It' s over .
+Se acabo .
+3 3 4
+================================
+NULL I can help you get the virus .
+Yo te puedo ayudar a obtener el virus .
+2 4 2 3 3 3 6 7 8
+================================
+NULL I have access to security codes , surveillance plans , the works .
+Tengo acceso a códigos de seguridad , planos , todo .
+9 3 4 6 5 5 7 8 7 9 13
+================================
+NULL But there' s gonna be a price .
+Pero va haber un precio .
+1 4 7 6 7 8
+================================
+NULL Name it .
+Dilo .
+1 3
+================================
+NULL You have to guarantee me that you will bring this corporation down .
+Tienes que ayudarme a destruir esta corporación .
+4 6 4 3 4 10 4 13
+================================
+NULL Thank you .
+Gracias !
+1 1
+================================
+NULL Spence ?
+Spence ?
+1 2
+================================
+NULL We can still make it out of here .
+Todavía podemos salir de aquí .
+3 3 6 7 8 9
+================================
+NULL Come with me .
+Ven conmigo .
+1 1 4
+================================
+NULL We can have everything we' ve ever wanted .
+Podemos tener todo lo que hemos deseado .
+7 3 4 7 3 7 7 9
+================================
+NULL Money' s out there waiting .
+El dinero esta allí esperandonos .
+1 1 4 4 1 6
+================================
+NULL You wouldn' t believe how much .
+No creerías la cantidad .
+3 2 2 2 7
+================================
+NULL Is that how you thought all my dreams were gonna come true ?
+De esa manera creías quen todos mis sueños se harían realidad ?
+8 8 8 8 8 6 8 8 5 8 8 13
+================================
+NULL Please .
+Por favor ...
+1 1 1
+================================
+NULL I wouldn' t want to shoot you .
+No quisiera dispararte .
+3 2 2 8
+================================
+NULL Might need the bullets .
+Podria necesitar las balas .
+1 1 1 1 5
+================================
+NULL Back off .
+Atrás !
+1 2
+================================
+NULL I won' t take any part in this .
+No voy a ser participe de esto .
+3 6 6 6 6 4 8 9
+================================
+NULL I was trying to stop them .
+Yo intentaba detenerlos .
+3 3 3 7
+================================
+NULL Where is ... the antivirus ?
+Adonde esta ... el antivirus ?
+5 5 3 4 5 6
+================================
+NULL Couldn' t have been standing more than three feet from it .
+Estaba a unos centimetros de el .
+7 1 7 7 10 7 12
+================================
+NULL I so nearly made it out .
+Y a unos metros de la salida .
+3 3 3 3 6 2 3 7
+================================
+NULL Didn' t realize that bitch of a computer had defense systems outside the Hive .
+No sabia que la perra de la computadora tenia sistemas de defensa fuera del nido .
+2 3 4 13 5 6 13 8 3 3 6 3 12 3 14 15
+================================
+NULL In or out ?
+Dentro o fuera ?
+1 2 1 4
+================================
+NULL In ... or out ?
+Dentro ... o fuera ?
+1 2 3 1 5
+================================
+NULL I' m missing you already .
+Ya te estoy echando de menos .
+5 4 2 3 3 3 6
+================================
+NULL Your boyfriend' s a real asshole .
+Tu novio es un desgraciado .
+1 2 3 4 2 7
+================================
+NULL He shot the locking mechanism out .
+Le disparo al sistema de cerradura .
+2 4 1 4 6 4 7
+================================
+NULL He shot the locking mechanism out .
+Le disparo al sistema de cerradura .
+2 4 1 4 6 4 7
+================================
+NULL I can' t believe that son of a bitch is gonna get away with this .
+No puedo creer que ese hijo de puta va a salir con las suyas .
+3 2 6 5 6 6 7 6 11 11 13 14 13 13 16
+================================
+NULL I don' t think so .
+Yo no lo creo .
+4 3 2 4 6
+================================
+NULL I' ve been a bad , bad girl .
+He sido una niña muy , muy mala .
+5 3 5 5 5 6 5 5 9
+================================
+NULL Oh , my God .
+Oh Dios mío !
+1 4 4 4
+================================
+NULL What the fuck is that ?
+Que mierda es eso ?
+1 3 4 3 6
+================================
+NULL The results were unstable .
+Los resultados fueron inestables .
+2 2 2 2 5
+================================
+NULL Now that it has fed on fresh DNA , it will mutate ...
+Ahora que tiene ADN nuevo , va a mutar ...
+1 2 4 8 5 9 5 5 5 13
+================================
+NULL becoming a stronger , faster hunter .
+Transformándose en un cazador mas fuerte y veloz .
+1 1 2 1 5 1 1 1 7
+================================
+NULL Great .
+Genial .
+1 2
+================================
+NULL If you knew it was loose , why didn' t you warn us ?
+Sí sabia que estaba suelto por que no nos avisaste ?
+6 6 13 3 6 6 13 9 13 6 14
+================================
+NULL ' Cause she was saving it for us .
+Porque lo estaba guardando para nosotros .
+2 6 2 2 7 8 9
+================================
+NULL Isn' t that right ?
+No es así ?
+2 1 1 5
+================================
+NULL I didn' t think any of you would make it this far .
+No crei que ninguno llegaria tan lejos .
+3 12 8 12 12 12 12 13
+================================
+NULL Not without infection .
+No sin infeccion .
+1 2 3 4
+================================
+NULL Why didn' t you tell us about the antivirus ?
+Porque no nos dijiste sobre el antivirus ?
+1 2 6 5 5 8 9 10
+================================
+NULL But there' s a chance , right ?
+Pero hay una oportunidad , cierto ?
+1 2 4 5 6 5 8
+================================
+NULL I don' t deal in chance .
+No trabajo con " oportunidades " .
+3 4 4 4 4 4 7
+================================
+NULL Fuck it .
+Mierda .
+1 3
+================================
+NULL No pressure , guys .
+No hay presion , Chicos .
+1 2 2 3 2 5
+================================
+NULL You require the four- digit access code .
+Necesitas el código .
+4 3 7 8
+================================
+NULL I can give you the code , but first you must do something for me .
+Yo te lo puedo dar , pero debes hacer algo por mi .
+2 4 3 2 9 7 8 9 12 13 14 9 16
+================================
+NULL - What do you want ?
+- Que quieres ?
+1 2 5 6
+================================
+NULL - One of your group is infected .
+- Uno de ustedes esta infectado .
+1 2 3 5 7 7 8
+================================
+NULL I require her life for the code .
+Requiero su vida por el código .
+2 2 4 5 6 7 8
+================================
+NULL The antivirus is right there on the platform .
+El antivirus esta ahi afuera !
+1 2 2 5 8 8
+================================
+NULL - It' s right there !
+- PASANDO LA PUERTA !
+1 4 4 4 6
+================================
+NULL - I' m sorry .
+- Lo siento .
+1 4 4 5
+================================
+NULL It' s a risk I cannot take .
+Pero es un riesgo que no puedo tomar .
+7 2 3 4 5 6 6 7 8
+================================
+NULL She' s right .
+Ella tiene razón .
+1 1 3 4
+================================
+NULL - Do it .
+- Hazlo .
+1 2 4
+================================
+NULL - No .
+- No .
+1 2 3
+================================
+NULL - Get up .
+- Apurensen .
+1 2 4
+================================
+NULL - Just do it .
+- Solo Hazlo .
+1 2 2 5
+================================
+NULL - Rain , please get up .
+- Rain , por favor parate .
+1 2 3 4 4 2 7
+================================
+NULL - Do it !
+- Hazlo !
+1 2 4
+================================
+NULL - You don' t have long to decide .
+- No tienen mucho tiempo para decidir .
+1 4 8 6 6 8 8 9
+================================
+NULL - Get up , please .
+- Levantate , por favor .
+1 2 4 5 5 6
+================================
+NULL - You have no choice .
+- No tienen otra opcion .
+1 2 5 5 5 6
+================================
+NULL - Kill her .
+- Matala .
+1 2 4
+================================
+NULL Kill her now .
+Matala ahora .
+1 3 4
+================================
+NULL You don' t have any choice .
+No tienen otra opcion .
+3 6 6 6 7
+================================
+NULL - Just do it now !
+- Hazlo Ahora !
+1 2 2 6
+================================
+NULL - I can' t !
+- No puedo !
+1 4 3 5
+================================
+NULL - Please .
+- Por favor .
+1 2 2 3
+================================
+NULL - Do it .
+- Hazlo .
+1 2 4
+================================
+NULL - Kill her .
+- Matala .
+1 2 4
+================================
+NULL - Just do it .
+- Solo Hazlo .
+1 2 2 5
+================================
+NULL Kill her now !
+Matala ahora !
+1 3 4
+================================
+NULL Kill her !
+Matala !
+1 3
+================================
+NULL The bitch wouldn' t open the door , so I had to fry her .
+La perra no queria abrir la puerta , asi que la queme .
+1 2 4 7 7 6 7 8 7 10 6 7 15
+================================
+NULL Move .
+Muevanse .
+1 2
+================================
+NULL What the fuck was that ?
+que MIERDA es eso ?
+5 3 3 3 6
+================================
+NULL It' s a long story .
+Es una larga historia .
+5 3 5 5 6
+================================
+NULL Start it up .
+Arranca el tren .
+1 1 1 4
+================================
+NULL I' il get the virus .
+yo ire por el antivirus .
+5 5 3 4 5 6
+================================
+NULL I' m missing you already .
+Ya te estoy echando de menos .
+5 4 2 3 3 3 6
+================================
+NULL Okay , we' re in business .
+Ok , estamos en marcha .
+1 2 6 5 6 7
+================================
+NULL Full power .
+A todo motor .
+1 1 1 3
+================================
+NULL We' re leaving !
+Nos estamos llendo !
+1 1 1 4
+================================
+NULL You won' t .
+No lo serás . cuando llegue el tiempo ...
+3 2 2 4 2 2 2 2 2
+================================
+NULL When the time comes ... you' il take care of it .
+Tu te ocuparas de eso .
+4 4 4 10 6 12
+================================
+NULL No one else is gonna die .
+Hey , nadie mas va a morir .
+3 2 3 3 5 5 6 7
+================================
+NULL Okay ?
+Ok ?
+1 2
+================================
+NULL Here .
+Toma .
+1 2
+================================
+NULL I' m not dead yet .
+No estoy muerta todavía .
+3 2 5 5 6
+================================
+NULL I think I' il have that back .
+creo que tomare eso de vuelta .
+2 6 7 2 7 7 8
+================================
+NULL I could kiss you , you bitch .
+Podria besarte , Perra .
+3 3 5 3 8
+================================
+NULL What' s going on back there ?
+Que esta pasando alla atras ?
+1 6 1 5 5 7
+================================
+NULL - Get us the fuck out of here !
+- Sacanos de aquí !
+1 2 7 8 9
+================================
+NULL - Any faster , we' il come off the rails !
+- Si vamos mas rapido nos vamos a descarrilar !
+1 10 10 3 10 10 10 10 10 11
+================================
+NULL Open the doors !
+Habré las compuertas !
+1 3 1 4
+================================
+NULL Open the doors !
+Habré las compuertas !
+1 3 1 4
+================================
+NULL Now !
+Ahora !
+1 2
+================================
+NULL I failed all of them .
+Les falle a todos .
+2 2 2 3 6
+================================
+NULL I failed .
+Fallé .
+2 3
+================================
+NULL Listen to me .
+Escúchame .
+1 4
+================================
+NULL There is nothing else you could' ve done .
+No hay nada mas que pudieras haber hecho .
+6 6 3 4 7 6 6 8 9
+================================
+NULL The corporation' s guilty here , not you .
+La corporación es culpable no tú .
+1 2 3 4 7 2 9
+================================
+NULL And we finally have the proof .
+Y finalmente tenemos la prueba ...
+1 3 3 5 3 3
+================================
+NULL That way Umbrella can' t get -- get away with this .
+Y de esta manera umbrella no puede ... salir con las suyas .
+7 2 11 2 3 5 3 7 9 10 9 9 12
+================================
+NULL What is it ?
+Que es esto ?
+1 2 1 4
+================================
+NULL You' re infected , but you' re gonna be okay .
+Estas infectado , pero estaras bien .
+10 3 4 5 3 10 11
+================================
+NULL I' m not losing you .
+No te voy a perder .
+3 5 4 4 4 6
+================================
+NULL Help !
+Ayuda !
+1 2
+================================
+NULL Help him .
+Ayudenlo .
+1 3
+================================
+NULL What are you doing ?
+Que hacen ?
+1 4 5
+================================
+NULL Matt !
+Matt !
+1 2
+================================
+NULL He' s mutating .
+Esta mutando .
+1 1 4
+================================
+NULL I want him in the Nemesis Program .
+Lo quiero en el programa Némesis .
+6 6 4 5 6 6 8
+================================
+NULL Get off ! .
+Alejensen !
+1 3
+================================
+NULL What' s happening ?
+Que esta pasando ?
+1 3 3 4
+================================
+NULL Matt !
+Matt !
+1 2
+================================
+NULL I want her quarantined .
+La quiero en cuarentena .
+4 4 4 4 5
+================================
+NULL Close observation and a full series of blood tests .
+Bajo estricta supervisión y un examen de sangre completo .
+2 2 2 3 4 2 7 8 2 10
+================================
+NULL Let' s see if she' s infected .
+Veamos si ella esta infectada .
+5 4 5 7 5 8
+================================
+NULL Take her to the Raccoon City facility .
+Llévenla al recinto de la ciudad de Raccoon .
+1 1 1 1 4 1 1 1 8
+================================
+NULL Then assemble the team .
+Y reensamblen un equipo .
+2 2 2 4 5
+================================
+NULL We' re reopening the Hive .
+Vamos a reabrir el nido .
+3 3 3 4 5 6
+================================
+NULL I want to know what went on down there .
+Quiero saber que paso allí abajo .
+2 6 1 6 9 8 10
+================================
+NULL Just do it .
+Solo hazlo .
+1 2 4
+================================
+NULL Who' s in there ?
+Quien esta ahi ?
+1 1 4 5
+================================
+NULL Let me out !
+Dejenme salir !
+1 3 4
+================================
+NULL Let me out !
+Dejenme salir !
+1 3 4
+================================
+NULL Who' s in there ?
+Quien esta ahi ?
+1 1 4 5
+================================
+NULL BAD COMPANlES
+MALAS COMPAÑIAS
+1 1
+================================
+NULL The Prague - Czech Republica
+Praga - Republica Checa
+2 3 5 4
+================================
+NULL Your friend is delayed
+Tu amigo está retrasado
+1 2 4 4
+================================
+NULL He will be here
+Estará aquí
+1 4
+================================
+NULL If ...
+Si ...
+1 2
+================================
+NULL Also I have other subjects
+También tengo otros asuntos
+1 1 1 1
+================================
+NULL I , personally , am responsible for this man
+Yo , personalmente , respondo por este hombre
+3 2 3 2 3 7 3 9
+================================
+NULL Ah , Good , I trust you Michael , but ... ... you will see , that each degrading separation it takes to a degrading uncertainty
+Ah , Bueno , yo confío en ti Michael , pero ... ... verás , que cada separación degradante lleva a una degradante incertidumbre
+1 2 3 2 6 6 22 6 8 2 10 11 11 6 2 17 18 6 6 6 23 24 6 6
+================================
+NULL The KGB once tried to tend a trap to me
+La KGB una vez trató de tenderme una trampa
+1 2 8 2 2 2 2 8 8
+================================
+NULL So I had to kill to three of its agents and soon to dedicate to me to hunt to its families
+Así que tuve que matar a tres de sus agentes y luego dedicarme a cazar a sus familias
+1 2 10 2 5 4 7 8 10 10 11 12 10 4 10 4 10 10
+================================
+NULL The point is , that if I feel something outside order aqui ' ...
+El punto es , que si siento algo fuera de orden aquí ...
+1 2 3 4 5 6 8 9 10 2 11 12 14
+================================
+NULL That is the point
+Ese es el punto
+4 2 3 4
+================================
+NULL Very well
+Muy bien
+1 2
+================================
+NULL Michelle ... , the manual of the proprietors
+Michelle ... , el manual de los propietarios
+1 2 3 4 5 6 8 8
+================================
+NULL It is this one his indication of good faith ?
+¿ Es ésta su muestra de buena fe ?
+10 1 6 5 6 7 9 9 10
+================================
+NULL Good , You follow with life That test that the data show good faith
+Bueno , Ud . sigue con vida Eso prueba que los datos muestran buena fe
+1 2 3 0 11 5 6 7 8 9 12 11 11 14 14
+================================
+NULL And now , What You have you stop my ' ?
+Y ahora , ¿ Qué tiene Ud . para mí ?
+1 2 3 11 4 8 5 0 8 8 11
+================================
+NULL The payment of the arms A million dollars
+El pago de las armas Un millón de dólares
+1 2 3 2 2 6 2 3 8
+================================
+NULL Then , When I obtain the device ?
+Entonces , ¿ Cuándo obtengo el dispositivo ?
+1 2 8 3 7 6 7 8
+================================
+NULL Let us say 10 days
+Digamos 10 días
+1 4 5
+================================
+NULL Michael , takes that telephone , and I will call to you and say as you must come
+Michael , toma ese teléfono , y te llamaré y diré como tienes que proceder
+1 2 3 3 5 2 7 12 10 7 14 15 10 4 18
+================================
+NULL We will be watching you all along
+Te estaremos vigilando todo el tiempo
+2 4 4 6 7 7
+================================
+NULL And as far as You Sir ... ... the next time that we are , I suggest to him ... that is precise .
+Y en cuanto a Ud . señor ... ... la próxima vez que nos encontremos , le sugiero ... que sea puntual .
+1 17 23 18 17 24 6 7 7 9 10 10 12 17 23 15 19 23 7 12 23 23 24
+================================
+NULL Pretty shelter
+Lindo abrigo
+1 1
+================================
+NULL Well fact
+Bien hecho
+1 2
+================================
+NULL I will see you soon
+Te veré luego
+2 5 5
+================================
+NULL - All good until now ?
+- ¿ Todo bien hasta ahora ?
+1 6 2 3 4 5 6
+================================
+NULL - Yes , until now
+- Sí , hasta ahora
+1 2 3 4 5
+================================
+NULL No , they do not seem Russian .
+No , no parecen rusos .
+1 2 5 7 7 8
+================================
+NULL Nor they shine friendly
+Ni lucen amigables
+1 1 1
+================================
+NULL Tour to the left .
+Gira a la izquierda .
+1 2 3 1 5
+================================
+NULL Tour to the left !
+Gira a la izquierda !
+1 2 3 1 5
+================================
+NULL Mátalo
+Mátalo
+1
+================================
+NULL They are pushing it towards the castle of the steps , Sir .
+Lo están empujando hacia el castillo de los pasos , señor .
+3 2 3 3 6 3 8 3 3 11 12 13
+================================
+NULL You cannot go more express !
+No puedes ir más rápido !
+2 5 3 4 5 6
+================================
+NULL We go !
+Vamos !
+1 3
+================================
+NULL Down , down !
+Abajo , abajo !
+1 2 3 4
+================================
+NULL Down , down !
+Abajo , abajo !
+1 2 3 4
+================================
+NULL There this ' !
+Ahí está !
+1 1 4
+================================
+NULL Estaciónate to a side !
+Estaciónate a un lado !
+1 2 3 1 5
+================================
+NULL You are risking the mission
+Estás arriesgando la misión
+3 3 4 5
+================================
+NULL You are the mission
+Tú eres la misión
+1 4 3 4
+================================
+NULL God !
+Dios !
+1 2
+================================
+NULL That was close !
+Eso estuvo cerca !
+1 3 3 4
+================================
+NULL It dresses where were ?
+¿ Viste dónde estaban ?
+5 2 2 2 5
+================================
+NULL Kevin ?
+¿ Kevin ?
+2 1 2
+================================
+NULL Main quarters of the company - Langley , Virginia
+Cuarteles Principales de la CIA - Langley , Virginia
+1 1 3 4 5 6 1 8 1
+================================
+NULL Macabre personality , extreme desperation ...
+Personalidad macabra , desesperación extrema ... ?
+1 1 3 5 1 6 1
+================================
+NULL The order for a nuclear pump was given to him and to it load in its suitcase ?
+El pedido para una bomba nuclear le fue entregado ¿ Y lo carga en su maleta ?
+1 14 3 4 6 5 10 14 14 18 14 13 14 15 16 14 18
+================================
+NULL Kevin spent 2 years approaching these people ... ... to position it to You like the buyer
+Kevin pasó 2 años acercándose a estas personas ... ... para posicionarlo a Ud . como el comprador
+1 2 3 4 2 10 6 7 8 8 2 2 10 14 0 15 16 17
+================================
+NULL Vass will not accept more to anybody We are 9 to obtain that this works
+Vass no aceptará a nadie más Tenemos 9 días para lograr que esto funcione
+1 3 4 6 4 5 8 10 10 4 4 13 14 4
+================================
+NULL It seems that the desperation is the daily routine
+Parece que la desesperación es la orden del día
+8 3 4 5 6 4 8 8 8
+================================
+NULL Perhaps Vass tended a trap to him to Kevin
+Quizás Vass le tendió una trampa a Kevin
+3 2 7 3 5 5 6 9
+================================
+NULL I believe that it is a rival buyer .
+Yo creo que es un comprador rival .
+7 2 3 5 6 8 7 9
+================================
+NULL They can be Pakistani , Chechenios , Nor- Korean
+Pueden ser Pakistaníes , Chechenios , Nor- Coreanos
+4 3 4 5 4 5 4 4
+================================
+NULL - Libyan ...
+- Libios ...
+1 2 3
+================================
+NULL - It could be all Middle East
+- Podría ser todo el Medio Oriente
+1 3 4 5 6 6 6
+================================
+NULL Then , Why they killed Kevin , if they could only it have struck ?
+Entonces , ¿ Por qué mataron a Kevin , si sólo podrían haberlo golpeado ?
+1 2 15 3 3 14 5 6 2 8 11 14 14 14 15
+================================
+NULL Because it had the deepest pockets , that is the reason .
+Porque tenía los bolsillos más profundos , esa es la razón .
+1 5 5 5 5 5 7 5 9 4 5 12
+================================
+NULL In order to push it out of play
+Para empujarlo fuera del juego
+4 4 1 4 4
+================================
+NULL Who you think that it is ?
+¿ Quién crees que sea ?
+7 1 1 4 1 7
+================================
+NULL Good , with all the wars you cold finished these boys no longer wave flags , now only ... ... they give financings to the terrorism , globally
+Bueno , con todas las guerras frías acabadas estos muchachos ya no ondean banderas , ahora sólo ... ... dan financiaciones al terrorismo , globalmente
+1 2 3 15 13 6 6 6 10 6 6 12 6 15 2 17 18 19 19 6 6 6 6 2 6
+================================
+NULL Good , whoever that he is , he wants to eliminate the competition , and to force to Vass to that he negotiates with them
+Bueno , quien quiera que sea , quiere eliminar la competición , y forzar a Vass a que negocie con ellos
+1 2 3 3 4 5 2 3 3 12 3 2 15 3 10 19 10 4 3 24 3
+================================
+NULL So , the future of this call " free world " , it rests in the hands of this ... young man
+Así que , el futuro de este llamado " mundo libre " , descansa en las manos de este ... joven hombre
+1 21 2 3 4 5 4 4 8 10 9 8 2 4 15 4 17 5 4 20 21 22
+================================
+NULL J Haise .
+J Haise .
+1 2 3
+================================
+NULL Tickets Big Tap What is that you want with himself .
+Boletos Big Tap Lo que sea que quieras te lo consigo .
+1 1 1 10 6 10 6 10 7 10 10 11
+================================
+NULL Yankees in the third line , Nicks already this closed ,
+Yankees en la tercera línea , Nicks ya esta cerrada ,
+1 2 3 1 5 6 1 8 9 1 6
+================================
+NULL Rangers this in the top Masters I will put to you in " Teeth of Tiger " , this good ?
+Rangers esta en el tope Masters te pondré en " Dientes de Tigre " , ¿ esta bien ?
+1 2 3 4 1 1 11 1 3 13 1 15 1 13 18 21 2 20 21
+================================
+NULL It does not concern what you want , you with himself
+No importa lo que quieras , te lo consigo
+3 4 5 1 11 8 6 5 11
+================================
+NULL Tickets Big Tap
+Boletos Big Tap
+1 1 1
+================================
+NULL What you need ?
+¿ Qué necesitas ?
+4 1 3 4
+================================
+NULL Oh , we go man !
+Oh , vamos hombre !
+1 2 4 5 6
+================================
+NULL You were three hours stops to bet against the Lakers ?
+¿ Estuviste tres horas para apostar contra los Lakers ?
+11 5 3 4 5 5 8 10 10 11
+================================
+NULL That happens in each game
+Eso pasa en cada juego
+1 2 3 4 5
+================================
+NULL It bets to the Lakers , 8 : 50 , you please to me
+Apuesta a los Lakers , 8 : 50 , me agradas
+2 3 5 5 6 7 8 9 6 14 2
+================================
+NULL I have the section , 24- 99 , 12 of return in the field
+Tengo la sección , 24- 99 , 12 de vuelta en el campo
+4 3 4 5 4 4 5 9 10 11 12 3 4
+================================
+NULL Just behind Woody- Woody Spike , I believe that they are together I am watching , oh , if now memory
+Justo detrás de Woody- Woody Spike , creo que están juntos Estoy mirando , oh , si ahora recuerdo
+3 2 2 3 3 3 6 8 9 11 12 3 15 6 17 6 19 20 3
+================================
+NULL Check
+Jaque
+1
+================================
+NULL It waits for a second
+Espera un segundo
+5 4 5
+================================
+NULL That so , Tickets Big Tap , J. K. What is you want it ?
+Que tal , Boletos Big Tap , J . K . ¿ Qué es lo quieres ?
+1 9 3 4 4 4 3 8 0 9 0 15 10 11 14 13 15
+================================
+NULL Checkmate
+Jaque Mate
+1 1
+================================
+NULL Tickets Big Tap
+Boletos Big Tap
+1 1 1
+================================
+NULL Your game is a nastiness The buttock is kicking you
+Tu juego es una porquería Te está pateando el trasero
+1 2 3 4 5 9 9 9 9 7
+================================
+NULL You do not watch me to me Your you are the one that does not know like moving your bishop
+No me mires a mí Tu eres el que no sabe como mover tu alfil
+3 5 4 6 4 8 4 11 13 3 4 17 4 19 4
+================================
+NULL Ahhhhhhhh , your you lose !
+Ahhhhhhhh , tu pierdes !
+1 2 3 1 6
+================================
+NULL Well , then I give $400 you by the gratuity
+Bien , entonces te doy $400 por la propina
+1 2 3 7 6 6 8 9 6
+================================
+NULL - Hey J , we go by one rodaja - Delay a second
+- Hey J , vamos por una rodaja - Espera un segundo
+1 2 3 4 6 7 8 9 1 11 12 13
+================================
+NULL Holaaaaaa , Tickets Big Tap
+Holaaaaaa , Boletos Big Tap
+1 2 3 3 3
+================================
+NULL Hey ... !
+Hey ... !
+1 2 3
+================================
+NULL No , I cannot go , I cannot go
+No , no puedo ir , no puedo ir
+1 2 4 4 5 2 4 4 5
+================================
+NULL Always working
+Siempre trabajando
+1 2
+================================
+NULL Hello affection , what happens ?
+Hola cariño , ¿ qué sucede ?
+1 2 3 6 4 5 6
+================================
+NULL This good , I go to recogerte of the work and we will speak everything on the subject
+Esta bien , voy a recogerte del trabajo y hablaremos todo sobre el asunto
+1 2 3 7 6 7 7 10 11 7 15 7 9 18
+================================
+NULL I also love to you .
+Yo también te amo .
+2 2 5 3 6
+================================
+NULL Good bye
+Adiós
+2
+================================
+NULL I must go to gather my girl , friend Let us review this
+Tengo que ir a recoger a mi chica , amigo Revisemos esto
+5 2 3 4 5 4 6 7 8 9 5 13
+================================
+NULL Your you will do this , right ?
+Tu harás esto , verdad ?
+1 3 5 6 7 8
+================================
+NULL And I am going to do this , and your ... ... you will do this , and later I will do this , and ... and your you will want to do this , but I am going to do this and ... ... when your you think about doing this , I am going to do this ... ... and soon the game was finished .
+Y yo voy a hacer esto , y tu ... ... harás esto , y después haré esto , y ... y tu querrás hacer esto , pero yo voy a hacer esto y ... ... cuando tu pienses en hacer esto , yo voy a hacer esto ... ... y luego el juego se terminó .
+1 3 3 5 6 7 8 9 10 11 11 14 7 8 9 19 6 7 8 9 11 9 10 6 6 7 8 36 3 3 5 6 7 9 11 11 46 10 6 14 6 7 8 3 3 5 6 7 11 11 9 63 64 65 31 67 68
+================================
+NULL It give 20 dollars now me and we saved 20 minutes
+Me das 20 dólares ahora y nos ahorramos 20 minutos
+6 3 3 4 5 7 3 3 3 11
+================================
+NULL Púdrete
+Púdrete
+1
+================================
+NULL You do not only know the chess as contact sport , no ?
+¿ No conoces el ajedrez sólo como deporte de contacto , no ?
+13 3 7 6 7 4 8 7 5 9 11 12 13
+================================
+NULL With whom this meeting ?
+¿ Con quién esta reuniéndose ?
+5 1 2 3 4 5
+================================
+NULL A nurse of AlDS patients Estan together for 3 years and ... ... it lost to its sister and his brother- in- law in June of this year
+Una enfermera de enfermos de SIDA Estan juntos desde hace 3 años y ... ... perdió a su hermana y a su cuñado en Junio de este año
+2 2 3 2 3 2 2 7 2 2 9 10 11 12 12 2 16 20 18 11 16 20 2 24 2 3 2 28
+================================
+NULL - Surprising the similarity with Kevin , Gentleman - Yes
+- Sorprendente el parecido con Kevin , Señor - Sí
+1 2 3 2 5 6 7 2 1 10
+================================
+NULL I am seeing a ghost
+Estoy viendo un fantasma
+5 3 4 5
+================================
+NULL Not ' ...
+No sé ...
+1 1 3
+================================
+NULL I do not know how you are going to react
+No sé cómo vas a reaccionar
+3 10 10 10 9 10
+================================
+NULL Oh we go , waits for a minute
+Oh vamos , espera un minuto
+1 3 4 5 7 8
+================================
+NULL I had to know it
+Debí saberlo
+2 2
+================================
+NULL The balanceantes movements , the increase of weight
+Los movimientos balanceantes , el aumento de peso
+2 2 2 4 5 6 7 6
+================================
+NULL What increase of weight ?
+¿ Qué aumento de peso ?
+5 1 2 3 2 5
+================================
+NULL You are pregnant .
+Estás embarazada .
+3 3 4
+================================
+NULL You are pregnant
+Estás embarazada
+3 3
+================================
+NULL I want that all they know it
+Quiero que todos lo sepan
+2 3 4 7 2
+================================
+NULL Hey , all !
+Hey , todos !!!
+1 2 3 3
+================================
+NULL My woman this by to have a baby and we are going away to marry
+Mi mujer esta por tener un bebé y nos vamos a casar
+1 2 3 4 6 7 8 9 8 10 5 8
+================================
+NULL I am not pregnant
+No estoy embarazada
+3 4 4
+================================
+NULL Your you know that we do not have to marry to us .
+Tu sabes que no tenemos que casarnos .
+1 3 4 7 10 4 10 13
+================================
+NULL The marriage is a great step
+El matrimonio es un gran paso
+1 2 3 4 5 6
+================================
+NULL We would have to wait for a time , good , your you know ...
+Deberíamos esperar un tiempo , bueno , tu sabes ...
+5 5 7 8 9 5 9 12 14 15
+================================
+NULL I am going away to change to Seattle
+Me voy a mudar a Seattle
+6 2 5 6 5 8
+================================
+NULL Seattle like ... ...
+Seattle como ... ...
+1 2 3 3
+================================
+NULL Seattle , the Supersonic Seattle
+Seattle , la Seattle Supersónica
+1 2 3 1 4
+================================
+NULL That is ... , that is ... enough distant spot
+Eso es ... , eso es ... bastante lejos
+1 2 3 4 10 2 3 8 10
+================================
+NULL I have one supplies to work there
+Tengo una oferta para trabajar allí
+4 3 4 4 6 7
+================================
+NULL What type of work you are going to obtain in Seattle that you cannot obtain in New York ?
+¿ Qué tipo de trabajo vas a conseguir en Seattle que no puedas conseguir en Nueva York ?
+19 1 2 3 4 9 8 9 10 11 12 14 9 9 10 18 18 19
+================================
+NULL - Keneth
+- Keneth
+1 2
+================================
+NULL Your Keneth ex -- fiancè ?
+¿ Tu ex- novio Keneth ?
+6 1 3 3 2 6
+================================
+NULL Sight , he is administrator in a company alli ' ... and me ofrecio ' - -
+Mira , él es administrador en una compañía allí ... y me ofreció --
+1 2 9 4 5 6 7 9 9 11 12 13 9 9
+================================
+NULL - Then you are leaving me and you returning with Keneth ...
+- Entonces me estás dejando y estás volviendo con Keneth ...
+1 2 6 5 5 7 5 9 10 11 12
+================================
+NULL - No !
+- No !
+1 2 3
+================================
+NULL You are leaving me ?
+¿ Me estás dejando ?
+5 4 3 3 5
+================================
+NULL More or less , but it is not --
+Más o menos , pero no es --
+1 2 1 4 5 8 7 9
+================================
+NULL Then , you are leaving me and you are returning with Keneth , that was , no ?
+Entonces , me estás dejando y estás volviendo con Keneth , eso era , no ?
+1 2 6 5 5 7 5 10 11 12 2 14 15 2 17 18
+================================
+NULL The part of Ken is only businesses
+La parte de Ken son sólo negocios
+1 4 3 4 4 6 7
+================================
+NULL And what starts off me you are leaving then , to please ?
+¿ Y qué parte me estás dejando entonces , placer ?
+13 1 2 3 5 8 8 9 10 3 13
+================================
+NULL Pain
+Dolor
+1
+================================
+NULL Your sister put all this to you in the head I never pleased to him
+Tu hermana te puso todo esto en la cabeza Nunca le agradé
+1 2 7 13 4 5 8 9 10 12 15 13
+================================
+NULL - they have been 3 years , Jake - I already know that they have been 3 years
+- Han sido 3 años , Jake - Ya sé que han sido 3 años
+1 5 4 5 6 7 8 1 11 12 13 6 4 5 6
+================================
+NULL And we are in the same situation in that we were when we knew ourselves
+Y estamos en la misma situación en que estábamos cuando nos conocimos
+1 2 4 5 7 7 4 9 7 12 15 7
+================================
+NULL Inclined to marry to us , but not married
+Inclinados a casarnos , pero no casados
+1 2 3 6 7 8 1
+================================
+NULL To marry to us .
+Casarnos .
+1 5
+================================
+NULL We cannot occur the luxury to marry
+No podemos darnos el lujo de casarnos
+2 3 3 4 3 3 7
+================================
+NULL And it does not seem sometimes as if it go to change
+Y no parece como si alguna vez fuera a cambiar
+1 4 6 7 8 6 6 6 11 6
+================================
+NULL You know people poor , also house
+Sabes la gente pobre , también se casa
+4 3 3 4 5 6 4 7
+================================
+NULL I know it , but I do not feel with desire to fight with you every day because we are broken
+Lo sé , pero no me siento con ganas de pelear contigo cada día porque estamos quebrados
+9 2 4 5 8 11 9 10 11 2 11 11 16 17 18 19 11
+================================
+NULL The marriage is enough difficult already , without being poor
+El matrimonio es bastante difícil ya , sin ser pobres
+1 2 3 4 5 6 7 8 9 9
+================================
+NULL But , and what happened our love yet ?
+Pero , ¿ Y qué sucedió con todo nuestro amor ?
+1 2 9 6 4 5 8 5 6 6 9
+================================
+NULL What happened that romance yet ?
+¿ Qué sucedió con todo ese romance ?
+6 1 2 5 2 4 4 6
+================================
+NULL Your you know that I love to you
+Tu sabes que te amo
+1 3 4 2 6
+================================
+NULL But you are living in that fantasy ...
+Pero estás viviendo en esa fantasía ...
+1 4 4 5 4 4 8
+================================
+NULL It is as if you were waiting for some class of miracle
+Es como si estuvieras esperando alguna clase de milagro
+1 3 4 12 12 9 10 11 12
+================================
+NULL I must live in the reality I am not going to be young by always .
+Tengo que vivir en la realidad No voy a ser joven por siempre .
+6 2 3 4 5 6 9 8 11 12 13 14 15 16
+================================
+NULL Oh , already I see ...
+Oh , ya veo ...
+1 2 3 5 6
+================================
+NULL You go to ponerte in the market while the merchandise still are fresh
+Vas a ponerte en el mercado mientras la mercancía todavía está fresca
+4 3 4 5 6 7 4 6 10 11 4 13
+================================
+NULL You are acting as if you had a poster of victory in the forehead
+Estás actuando como si tuvieras un cartel de vencimiento en la frente
+3 3 4 5 3 8 3 10 3 12 13 3
+================================
+NULL We go , we go
+Vamos , vamos
+1 3 2
+================================
+NULL I feel it , I feel it
+Lo siento , lo siento
+2 2 4 3 2
+================================
+NULL You think that I like to live asi ' ?
+¿ Piensas que me gusta vivir así ?
+10 7 3 8 7 7 8 10
+================================
+NULL Reselling tickets , falsifying checks , identifications of the those small clubs
+Revendiendo boletos , falsificando cheques , identificaciones de esos pequeños los clubes
+1 2 3 1 5 3 1 8 1 1 1 1
+================================
+NULL I know it , I had to remain in the school , threw it to lose , I threw it to lose .
+Lo sé , debí quedarme en el colegio , lo eché a perder , lo eché a perder .
+8 8 4 8 8 9 10 11 4 3 8 7 16 4 3 8 7 16 23
+================================
+NULL I will return to the school
+Volveré al colegio
+3 6 6
+================================
+NULL - I love to You , Jake - I also
+- Te amo , Jake - Yo también
+1 3 3 6 7 1 10 10
+================================
+NULL But , I --
+Pero , yo --
+1 2 4 4
+================================
+NULL Then , When you go away ?
+Entonces , ¿ Cuándo te vas ?
+1 2 7 3 4 6 7
+================================
+NULL In a pair of weeks
+En un par de semanas
+3 2 3 4 5
+================================
+NULL But ...
+Pero ...
+1 2
+================================
+NULL We will speak before that
+Hablaremos antes de eso
+4 4 4 5
+================================
+NULL So that ' ?
+¿ Por qué ?
+4 1 3 4
+================================
+NULL - July left me
+- July me dejó
+1 2 4 3
+================================
+NULL - I feel It .
+- Lo siento .
+1 3 3 5
+================================
+NULL I must go to me , but we see ourselves tomorrow - It is well
+Tengo que irme , pero nos vemos mañana - Está bien
+2 2 11 6 7 10 11 11 12 11 15
+================================
+NULL Hey , acquittal that nastiness or I go to have to dismiss your buttock
+Hey , quita esa porquería o voy a tener que despedir a tu trasero
+1 2 3 3 5 6 3 9 10 4 3 9 13 14
+================================
+NULL That is !
+Eso es !
+1 2 3
+================================
+NULL July , July , I feel it Oh , pardon ...
+July , July , lo siento Oh , perdón ...
+1 2 1 2 7 6 8 2 10 11
+================================
+NULL Tickets Big Tap
+Boletos Big Tap
+1 1 1
+================================
+NULL Yes , why game ?
+Sí , ¿ para qué juego ?
+1 2 5 3 3 4 5
+================================
+NULL But , how much you want to spend ?
+Pero , ¿ cuánto quieres gastar ?
+1 2 9 3 6 8 9
+================================
+NULL Yes , I can obtain it
+Sí , puedo conseguirlo
+1 2 4 5
+================================
+NULL Then , what you have ?
+Entonces , ¿ qué tienes ?
+1 2 6 3 5 6
+================================
+NULL Where demons are that ?
+¿ Dónde demonios es eso ?
+5 1 2 2 4 5
+================================
+NULL - Thank you very much , now ... he váyase - What he is
+- Muchas gracias , ahora ... váyase - Lo que sea
+1 2 2 6 7 8 10 1 10 9 10
+================================
+NULL - Hey friend .
+- Hey amigo .
+1 2 3 4
+================================
+NULL Bájate - Hey , what happens .
+Bájate - Hey , qué sucede .
+1 2 3 4 5 6 7
+================================
+NULL Hey , what happens ?
+Hey , ¿ qué sucede ?
+1 2 5 3 4 5
+================================
+NULL Hey , hey , hey !
+Hey , hey , hey !
+1 2 3 2 3 6
+================================
+NULL - We go , we go , we go !
+- Vamos , vamos , vamos !
+1 2 4 3 4 3 10
+================================
+NULL - Relájate
+- Relájate
+1 2
+================================
+NULL They know the horrible thing that it was to come in taxi until aqui ' ?
+¿ Saben lo horrible que fue venir en taxi hasta aquí ?
+16 12 7 4 6 12 12 11 12 13 14 16
+================================
+NULL I hope that they give aventón me to the return !
+Espero que me den un aventón a la vuelta !
+2 3 7 6 6 6 8 9 10 11
+================================
+NULL Oh , already I understood Killed a fulano and now they need a suspect ?
+Oh , ya entendí ¿ Mataron a un fulano y ahora necesitan un sospechoso ?
+1 2 3 5 15 5 5 7 5 9 10 5 7 5 15
+================================
+NULL The Swanson official The Kaerugg official
+La oficial Swanson El oficial Kaerugg
+1 3 2 1 3 5
+================================
+NULL Company , why he is this ?
+CIA , ¿ para qué es esto ?
+1 2 7 1 3 5 6 7
+================================
+NULL Cracks in my buttock ?
+¿ Grietas en mi trasero ?
+5 1 2 3 4 5
+================================
+NULL They are going to arrest to me to resell tickets ?
+¿ Van a arrestarme por revender boletos ?
+11 5 4 5 5 5 10 11
+================================
+NULL We only want to speak to him about I scare
+Sólo queremos hablarle acerca de un asusto
+10 10 10 8 2 10 10
+================================
+NULL About which ' ?
+¿ Acerca de qué ?
+4 1 1 3 4
+================================
+NULL About its brother
+Acerca de su hermano
+1 1 2 3
+================================
+NULL They have the mistaken man I not even have a brother
+Tienen al hombre equivocado Yo ni siquiera tengo un hermano
+4 4 5 4 4 8 8 2 10 11
+================================
+NULL That is only one photo of me in a suit They could obtain it in Internet
+Eso es sólo una foto de mí en un traje Pudieron conseguirla en Internet
+1 2 3 4 5 6 5 8 9 10 5 5 8 5
+================================
+NULL There is a photo of blue doors with 3 cats in Internet
+Hay una foto de puertas azules con 3 gatos en Internet
+1 6 4 5 7 6 8 9 6 11 4
+================================
+NULL Very well .
+Muy bien .
+1 2 3
+================================
+NULL 8 September of 1970 Valview hospital , You take care of of New York
+8 Septiembre de 1970 Hospital Valview , Cuidad de Nueva York
+1 2 3 2 2 2 7 2 3 14 14
+================================
+NULL A woman with the name of Mary Jeffries , she gave light to identical binoculars ... ...
+Una mujer con el nombre de Mary Jeffries , dio a luz a gemelos idénticos ... ...
+7 2 3 4 5 6 7 8 9 11 13 7 13 15 7 16 16
+================================
+NULL But she underwent complications during the work ...
+Pero sufrió complicaciones durante la labor ...
+1 3 3 3 6 3 8
+================================
+NULL - ... and she died on the following day - and what has about the father ?
+- ... y murió al día siguiente - ¿ Y qué hay acerca del padre ?
+1 2 3 5 8 9 8 1 17 14 12 8 14 8 8 17
+================================
+NULL He presumes himself with life We are about to to find out it
+Se presume con vida Estamos por averiguarlo
+3 2 4 5 2 2 11
+================================
+NULL The State chose to separate the binoculars , but one of them , Jake , - that you are your ... ... it was diagnosed with a severe infection in the lungs still you have the scar in the chest of the mark of the incision
+El Estado optó por separar a los gemelos , pero uno de ellos , Jake , - ese eres tu - ... ... fue diagnosticado con una severa infección en los pulmones todavía tienes la cicatriz en el pecho de la marca de la incisión
+1 2 2 2 2 4 12 7 8 9 10 11 2 8 14 8 16 2 19 20 16 21 21 2 2 26 10 2 2 30 12 2 33 35 6 2 30 6 2 11 6 2 11 6 2
+================================
+NULL The administrator of the hospital remade the registry of the boy so that he had better opportunities of adoption
+El administrador del hospital rehizo el registro del niño para que tuviera mejores oportunidades de adopción
+1 2 6 6 6 4 6 6 6 6 13 6 6 6 3 6
+================================
+NULL Given to Bill Clade Roger and Glenda Pope , that they accepted to take to his position to Kevin Jeffries
+Entregado a Bill Clade Roger y Glenda Pope , que aceptaron tomar a su cargo a Kevin Jeffries
+1 2 1 1 1 6 1 8 9 10 1 14 2 16 1 2 19 20
+================================
+NULL Pope never knew , Kevin never knew it
+Pope nunca supo , Kevin nunca lo supo
+1 2 3 4 5 2 8 3
+================================
+NULL Then , I have a twin brother , great thing
+Entonces , tengo un hermano gemelo , gran cosa
+1 2 4 5 7 6 2 9 10
+================================
+NULL What has to do the company with this ?
+¿ Qué tiene que ver la CIA con esto ?
+9 1 2 2 6 5 6 7 8 9
+================================
+NULL What could not send a letter to me ?
+¿ Qué no pudieron mandarme una carta ?
+9 1 3 6 6 5 6 9
+================================
+NULL His brother is dead
+Su hermano está muerto
+1 2 4 4
+================================
+NULL How ?
+¿ Cómo ?
+2 1 2
+================================
+NULL A helicopter accident
+Un accidente de helicóptero
+1 2 2 2
+================================
+NULL His brother was working in something with us
+Su hermano estaba trabajando en algo con nosotros
+1 2 4 4 5 6 7 8
+================================
+NULL My twin brother was of the company ?
+¿ Mi hermano gemelo era de la CIA ?
+8 1 3 2 4 5 6 7 8
+================================
+NULL Yes , one took care of an operative one Just before dying , he fixed a treatment
+Sí , se ocupaba de un operativo Justo antes de morir , el arregló un trato
+1 2 8 8 6 16 8 8 11 6 8 2 8 8 16 17
+================================
+NULL What class of treatment ?
+¿ Qué clase de trato ?
+5 1 2 3 4 5
+================================
+NULL One very important one
+Uno muy importante
+1 2 3
+================================
+NULL Then we needed that it supplants it ... ... only briefly
+Entonces necesitamos que lo suplante ... ... sólo brevemente
+1 3 4 5 6 8 8 10 6
+================================
+NULL - To try that I am he ?
+- ¿ Pretender que soy él ?
+1 8 3 4 3 3 8
+================================
+NULL - Yes
+- Sí
+1 2
+================================
+NULL - By how long ?
+- ¿ Por cuánto tiempo ?
+1 5 2 3 4 5
+================================
+NULL - 9 days 9 days it is not a suplencia .
+- 9 días 9 días no es una suplencia .
+1 2 3 2 3 8 7 10 10 11
+================================
+NULL One hour is a suplencia .
+Una hora es una suplencia .
+5 2 3 5 5 6
+================================
+NULL 9 days it is like going in tour
+9 días es como ir en un tour
+1 2 4 5 8 7 8 8
+================================
+NULL What class of risk ?
+¿ Qué clase de riesgo ?
+5 1 2 3 4 5
+================================
+NULL A risk like of bad credit ?
+¿ Un riesgo como de mal crédito ? - ¿ O un riesgo de una bala en el trasero ?
+7 1 2 3 4 6 6 7 6 7 6 2 2 4 5 6 2 1 6 7
+================================
+NULL - Or a risk of one bleats in the buttock ? - well it will be compensated
+- Será bien compensado
+1 17 13 17
+================================
+NULL By one it bleats in the buttock , I hope that there is a great compensation
+Por una bala en el trasero , espero que haya una gran compensación
+1 2 16 5 6 7 8 16 11 16 2 15 16
+================================
+NULL - How much ?
+- ¿ Cuánto ?
+1 4 3 4
+================================
+NULL - Póngale I number
+- Póngale un numero
+1 2 2 4
+================================
+NULL - a trillion of dollars - it is exceeded
+- Un billón de dólares - Está excedido
+1 3 3 4 5 1 3 3
+================================
+NULL Good , I do not know whereupon " butchers " are working You .
+Bueno , yo no conozco con que " carniceros " está trabajando Ud .
+1 2 7 5 7 7 3 8 7 8 7 12 13 14
+================================
+NULL - Good we were thinking about one base original we say ... 25, 000 dollars - 50 . 000
+- Bueno estuvimos pensando en una base original digamos ... 25 . 000 dólares - 50 . 000
+1 2 8 5 4 7 8 8 8 12 13 18 14 15 1 17 18 14
+================================
+NULL Yes , 50 . 000 .
+Sí , 50 . 000 .
+1 2 3 4 5 4
+================================
+NULL I suppose that if began with 25, 000 ... , so I know that it must have much more
+Supongo que si empezó con 25 . 000 ... , así que se sé que debe tener mucho más
+2 3 4 2 6 7 0 8 9 10 2 3 19 13 3 2 17 18 19
+================================
+NULL It does not have to give all its money me 50 . 000
+No tiene que darme todo su dinero 50 . 000
+3 11 4 6 7 8 9 11 12 13
+================================
+NULL With 50, 000 dollars it can marry with his July fiancèe It can go to the school .
+Con 50 . 000 dólares puede casarse con su novia July Puede ir al colegio .
+1 2 18 3 4 6 1 8 9 11 10 1 14 17 17 18
+================================
+NULL It will not have to go to Seattle
+Ella no tendrá que ir a Seattle
+8 3 8 4 6 5 8
+================================
+NULL She will not have to work with Keneth .
+No tendrá que trabajar con Keneth .
+3 8 4 6 7 8 9
+================================
+NULL Very well .
+Muy bien .
+1 2 3
+================================
+NULL This is what I am thinking
+Esto es lo que estoy pensando
+6 2 3 4 6 6
+================================
+NULL You will give 50, 000 dollars me , duty free
+Ud . me dará 50 . 000 dólares , libre de impuestos
+1 0 7 9 4 0 5 6 8 10 10 9
+================================
+NULL This good .
+Esta bien .
+1 2 3
+================================
+NULL 50, 000 dollars , without the taxes After the work this fact
+50 . 000 dólares , sin los impuestos Después de que el trabajo este hecho
+1 0 2 3 4 5 7 7 8 8 7 6 10 12 12
+================================
+NULL Half now .
+La mitad ahora .
+1 1 2 3
+================================
+NULL Half later 10 . 000 now .
+La mitad después 10 . 000 ahora .
+1 1 2 3 4 5 6 4
+================================
+NULL 40 . 000 later
+40 . 000 después
+1 2 3 4
+================================
+NULL Hey , my mother could have trillizos
+Hey , mi mamá pudo tener trillizos
+1 2 3 4 4 4 4
+================================
+NULL It will give 10, 000 now me .
+Me dará 10 . 000 ahora .
+4 4 4 8 5 6 8
+================================
+NULL 90 . 000 later
+90 . 000 después
+1 2 3 4
+================================
+NULL It is well .
+Está bien .
+3 3 4
+================================
+NULL You have a treatment
+Tienes un trato
+4 3 4
+================================
+NULL Then , when we began ?
+Entonces , ¿ cuándo empezamos ?
+1 2 6 5 5 6
+================================
+NULL Now
+Ahora
+1
+================================
+NULL This it is the file of its brother , estúdialo
+Este es el expediente de su hermano , estúdialo
+5 3 4 5 6 7 8 9 5
+================================
+NULL - So this is the task for the home ?
+- ¿ Así que esta es la tarea para el hogar ?
+1 10 2 6 3 4 5 6 7 5 6 10
+================================
+NULL - Recreation - This good
+- Recreación - Esta bien
+1 2 1 4 5
+================================
+NULL Déjame to see ...
+Déjame ver ...
+1 3 4
+================================
+NULL Died in New York like result of an interchange of stabs
+Muertos en Nueva York como resultado de un intercambio de puñaladas
+1 2 4 4 5 1 7 8 1 7 1
+================================
+NULL Mother taken to the cut directly in the ' 97 She had to be pleasant
+Madre llevada a la corte directamente en el ' 97 Debió ser agradable
+1 1 3 4 1 1 7 4 1 1 1 14 1
+================================
+NULL This people for will stab could not hope until the supper
+Esta gente para acuchillare no podían esperar hasta la cena
+1 2 3 11 7 11 8 9 10 11
+================================
+NULL Accident in the preparatory one I replace Dugg agent incapable to carry out the roll
+Accidente en la preparatoria Sustituyo al agente Dugg incapaz de desempeñar el rol
+1 2 3 1 1 1 9 1 1 13 1 3 1
+================================
+NULL - Thus it is - But that happened , he was too great ?
+- Así es - Pero que sucedía , ¿ era demasiado grande ?
+1 2 4 1 6 7 2 9 14 11 12 2 14
+================================
+NULL By a skylight ...
+Por un tragaluz ...
+1 2 3 4
+================================
+NULL So my brother was really small , eh ?
+Así que mi hermano era realmente pequeño , ¿ eh ?
+1 4 2 3 4 5 6 7 9 8 9
+================================
+NULL Yes
+Sí
+1
+================================
+NULL Devils , the company are cheap
+Diablos , la CIA es barata
+1 2 3 4 6 6
+================================
+NULL They will have at least to give bed me of so large double , that it is a this cucheta ?
+Al menos deberán darme cama de tamaño doble , que es esto una cucheta ?
+5 5 5 7 5 10 5 13 14 15 17 19 18 5 21
+================================
+NULL Hey , what means the one of the signboard :
+Hey , ¿ qué significa lo del letrero :
+1 2 9 3 4 3 4 9 10
+================================
+NULL " Záchod - Zach Hoat - "
+" Záchod - Zach Hoat - " ?
+1 2 3 2 2 3 1 2
+================================
+NULL It is the Czech word for " bath " .
+Es la palabra Checa para " baño " .
+1 3 5 4 6 7 8 7 10
+================================
+NULL You will find rooms labeled with foreign translations
+Encontrarás las habitaciones etiquetadas con traducciones extranjeras
+4 4 4 4 6 4 4
+================================
+NULL So that ' ?
+¿ Por qué ?
+4 1 3 4
+================================
+NULL - Because the treatment will be carried out in the Czech Republic
+- Porque el trato se llevará a cabo en la República Checa
+1 2 3 4 7 7 7 7 9 3 12 11
+================================
+NULL - Czech Republic ?
+- ¿ República Checa ?
+1 4 3 2 4
+================================
+NULL - You got it a dictionary
+- Ahí tienes un diccionario
+1 6 6 5 6
+================================
+NULL How I make to obtain an external line ?
+¿ Cómo hago para conseguir una línea externa ?
+9 1 7 7 5 6 8 7 9
+================================
+NULL I need that somebody feeds my cat
+Necesito que alguien alimente mi gato
+4 3 4 4 6 7
+================================
+NULL You do not have an external line And , not even you have a cat
+No tienes una línea externa Y , ni siquiera tienes un gato
+3 15 5 7 6 8 9 11 11 15 14 15
+================================
+NULL This good And what assumes that I must be doing aqui ' ?
+Esta bien ¿ Y qué se supone que tengo que estar haciendo aquí ?
+1 2 13 3 4 5 5 6 5 6 5 10 11 13
+================================
+NULL There is a tape in the Videocasetera It is a video of your brother
+Hay una cinta en la Videocasetera Es un video de tu hermano
+1 3 4 5 6 4 8 3 4 12 13 14
+================================
+NULL Míralo .
+Míralo .
+1 2
+================================
+NULL The way in which it speaks , and the way in which one moves
+La manera en que habla , y la manera en que se mueve
+1 2 3 4 6 7 8 9 2 3 4 6 6
+================================
+NULL I know that there is much to do here , but we are everything behind you
+Sé que hay mucho por hacer aquí , pero estamos todo detrás de ti
+2 3 6 6 6 8 9 10 11 12 14 15 15 6
+================================
+NULL We will begin in the morning
+Empezaremos en la mañana
+3 4 5 6
+================================
+NULL - You have some question ?
+- ¿ Tienes alguna pregunta ?
+1 6 5 4 5 6
+================================
+NULL - Yes
+- Sí
+1 2
+================================
+NULL - 5 A. M. - I will be ready to 5 A. M.
+- 5 AM - Estaré listo a las 5 AM
+1 2 3 1 2 2 10 3 2 3
+================================
+NULL Then from here , which are ours chances
+Entonces a partir de aquí , cuáles son nuestras chances
+1 7 7 2 3 4 7 7 7 8
+================================
+NULL - Good , it would say that between negative and zero - Why you say that ?
+- Bueno , diría que entre negativo y cero - ¿ Por qué dices eso ?
+1 2 3 8 7 8 8 10 8 1 17 13 13 8 7 17
+================================
+NULL Good , I recognize that it has potential , is quite intelligent ... ... and in 6 months until it can deceive to the own parents of its brother ... ... but in 8 days , we go , you must be joking
+Bueno , reconozco que tiene potencial , es bastante inteligente ... ... y en 6 meses hasta puede engañar a los propios padres de su hermano ... ... pero en 8 días , vamos , tienes que estar bromeando
+1 2 4 5 7 8 2 10 4 4 13 13 15 16 4 18 19 21 4 23 8 4 26 27 28 29 13 13 32 16 34 35 2 38 2 41 5 4 4
+================================
+NULL Probably it is dead in this operation , and it puts in risk to that goes with him
+Probablemente resulte muerto en esta operación , y ponga en riesgo a quien vaya con él
+1 11 4 5 6 7 8 9 11 5 13 14 11 11 17 11
+================================
+NULL You would like to be replaced in the mission ?
+¿ Te gustaría ser reemplazado en la misión ?
+10 6 6 5 6 7 8 9 10
+================================
+NULL So that ' ?
+¿ Por qué ?
+4 1 3 4
+================================
+NULL These saying that you will follow ahead with or without my ' ?
+¿ Estas diciendo que seguirás adelante con o sin mí ?
+13 1 2 3 1 7 8 9 10 1 13
+================================
+NULL If , that is indeed what I am saying
+Si , eso es precisamente lo que estoy diciendo
+1 2 5 4 5 6 3 5 9
+================================
+NULL Good , Mr. Cua' ndo I say to him what this mission surrounds ?
+Bueno , Señor ¿ Cuándo le digo lo que esta misión envuelve ?
+1 2 4 14 4 9 4 10 6 11 12 4 14
+================================
+NULL Good , if outside You , as rapidly as possible
+Bueno , si fuera Ud . , lo antes posible
+1 2 3 4 5 0 2 8 8 10
+================================
+NULL It does not forget to omit nothing that cannot use , and nothing that can jump at the mistaken moment
+No olvide omitir nada que el no pueda utilizar , y nada que pueda saltar en el momento equivocado
+3 6 6 7 8 18 3 6 6 11 12 7 8 6 6 17 18 20 19
+================================
+NULL That this doing now ?
+¿ Que esta haciendo ahora ?
+5 1 2 3 4 5
+================================
+NULL It is studying .
+Está estudiando .
+3 3 4
+================================
+NULL We said to him that it learned some phrases nail in Czech
+Le dijimos que aprendiera algunas frases clave en checo
+7 7 5 7 8 7 7 11 7
+================================
+NULL It seems dedicated
+Parece dedicado
+3 3
+================================
+NULL What this saying ?
+¿ Qué esta diciendo ?
+4 1 2 3 4
+================================
+NULL It said :
+Dijo :
+2 3
+================================
+NULL " I have not had my period in three months "
+" No he tenido mi período en tres meses "
+1 4 7 7 6 7 8 9 10 1
+================================
+NULL - and now , that ' ?
+- ¿ Y ahora , qué ? - " ¿ Dónde queda el hospital ?
+1 7 6 3 4 6 7 1 6 7 3 3 6 3 7
+================================
+NULL # WAARDE !
+Tengo una infección vaginal "
+1 1 1 1 1
+================================
+NULL If , this will be really interesting I cannot hope to begin
+Si , esto será realmente interesante No puedo esperar a comenzar
+1 2 3 7 6 7 9 9 10 11 7
+================================
+NULL Levántense , is a shining day .
+Levántense , es un día brillante .
+1 2 3 4 6 5 7
+================================
+NULL 5 A. M. and all this good
+5 AM y todo esta bien
+1 2 4 5 6 7
+================================
+NULL That so , 3 hours but of dream , and some breakfast ?
+¿ Que tal , 3 horas mas de sueño , y algún desayuno ?
+13 1 8 3 4 5 8 7 8 3 10 8 8 13
+================================
+NULL That so one showers fresh ?
+¿ Que tal una ducha fresca ?
+6 1 4 3 4 5 6
+================================
+NULL Good morning
+Buenos días
+2 2
+================================
+NULL Today we will be covering Basic protocols of Operations ... ... in accusation of the foreign access
+Hoy estaremos cubriendo los Protocolos de Operaciones Básicas ... ... en acusación del acceso extranjero
+1 4 5 5 5 8 5 5 10 10 12 5 5 17 5
+================================
+NULL Identifying the target ... ...
+Identificando el blanco ... ...
+1 2 1 4 4
+================================
+NULL Initiating the contact ... ...
+Iniciando el contacto ... ...
+1 2 3 4 4
+================================
+NULL And making impenetrable to the computer science network
+Y haciendo impenetrable a la red informática
+1 3 3 4 2 3 3
+================================
+NULL - and as you feel ?
+- ¿ Y como te sientes ?
+1 6 5 3 4 5 6
+================================
+NULL - This me incomoda a little ... ...
+- Esto me incomoda un poco ... ...
+1 4 3 4 5 6 7 7
+================================
+NULL I feel like Michael Jackson , concealed by doubles
+Me siento como Michael Jackson , encubierto por dobles
+5 2 3 4 5 6 5 8 5
+================================
+NULL That is to say , it watches this man .
+Es decir , mira a este hombre .
+7 4 5 7 3 9 9 10
+================================
+NULL He sees himself like I , but I am not
+Se ve como yo , pero no soy yo
+3 2 4 9 6 7 10 2 9
+================================
+NULL - If - Then , what it liked to do ?
+- Si - Entonces , ¿ qué le gustaba hacer ?
+1 2 1 4 5 11 6 8 8 10 11
+================================
+NULL Means , what class of sports it liked ?
+Quiero decir , ¿ qué clase de deportes le gustaban ?
+1 1 2 9 3 4 5 6 8 1 9
+================================
+NULL What type of music listened ?
+¿ Qué tipo de música escuchaba ?
+6 1 2 3 4 5 6
+================================
+NULL It liked music .
+Le gustaba la música .
+2 2 1 3 4
+================================
+NULL It liked the Jazz , and Classic music
+Le gustaba el Jazz , y la música Clásica
+4 2 3 4 5 6 3 8 4
+================================
+NULL - Oh , we go ... ...
+- Oh , vamos ... ...
+1 2 3 5 6 6
+================================
+NULL To that brother of 29 years it does not like just a little bit of Rap ?
+¿ A que hermano de 29 años no le gusta un poquito de Rap ?
+17 1 2 3 4 5 6 9 5 5 12 14 4 16 17
+================================
+NULL Rap did not listen .
+No escuchaba Rap .
+3 4 1 5
+================================
+NULL Then ...
+Entonces ...
+1 2
+================================
+NULL What class of sports practiced ?
+¿ Qué clase de deportes practicaba ?
+6 1 2 3 4 5 6
+================================
+NULL - It skied .
+- Esquiaba .
+1 3 4
+================================
+NULL - OK .
+- OK .
+1 2 3
+================================
+NULL Tenemos : ski , navy , nothing of Rap
+Tenemos : esquí , la marina , nada de Rap
+1 2 1 4 1 1 4 7 8 9
+================================
+NULL We had much in common
+Teníamos mucho en común
+5 3 4 5
+================================
+NULL - Sir ...
+- Señor , -- ...
+1 2 2 2 3
+================================
+NULL - At what time ?
+- ¿ A qué hora ?
+1 5 2 3 2 5
+================================
+NULL This good .
+Esta bien .
+1 2 3
+================================
+NULL Thanks
+Gracias
+1
+================================
+NULL - Oh , we go man .
+- Oh , vamos hombre .
+1 2 3 5 6 7
+================================
+NULL I saw that something happened there
+Vi que algo pasaba ahí
+2 3 4 5 2
+================================
+NULL Something happens , we go ...
+Algo pasa , vamos ...
+1 2 3 5 6
+================================
+NULL Mírate , these ruborizando to you
+Mírate , te estas ruborizando
+1 2 6 3 1
+================================
+NULL My friends ...
+Mis amigos ...
+2 2 3
+================================
+NULL The official Seill , the Swanson official , has faith in you
+El oficial Seill , la oficial Swanson , tiene fe en ti
+1 2 3 4 5 2 6 4 9 10 11 2
+================================
+NULL I no .
+Yo no .
+1 2 3
+================================
+NULL Then , better you learn these things And you know everything to it for the 05 : 00 in the morning
+Entonces , mejor aprendes estas cosas Y lo sabes todo para las 05 : 00 de la mañana
+1 2 3 5 6 7 8 13 10 11 14 7 5 17 18 10 15 21
+================================
+NULL - Or that ' ?
+- ¿ O qué ?
+1 5 2 4 5
+================================
+NULL - Or I will kill to you
+- O te mataré
+1 2 7 2
+================================
+NULL - Vístete - They are the 4 : 59 A. M.
+- Vístete - Son las 4 : 59 AM
+1 2 1 2 10 7 8 2 10
+================================
+NULL Agítalo .
+Agítalo .
+1 2
+================================
+NULL The tonality checks .
+Chequea la tonalidad .
+2 2 2 4
+================================
+NULL Huélelo .
+Huélelo .
+1 2
+================================
+NULL And pruébalo
+Y pruébalo
+1 2
+================================
+NULL 5 : 00 A. M. - No , they are the 5 : 01 A. M.
+5 : 00 AM - No , son las 5 : 01 AM
+1 2 3 4 6 7 8 14 4 1 2 14 4
+================================
+NULL Pope .
+Pope .
+1 2
+================================
+NULL Kevin Pope
+Kevin Pope
+1 2
+================================
+NULL Watch this .
+Miren esto .
+1 2 3
+================================
+NULL Hey , I have initials in my suit The only thing which it knew of my suit is that it felt smooth
+Hey , tengo iniciales en mi traje Lo único que sabía de mi traje es que se sentía suave
+1 2 4 5 6 7 8 21 21 19 21 15 7 8 18 19 21 21 21
+================================
+NULL " M. T. "
+T . "
+3 0 1
+================================
+NULL Why he is that ?
+¿ Para qué es eso ?
+5 2 1 3 4 5
+================================
+NULL Michael Turner
+Michael Turner
+1 2
+================================
+NULL - But I thought that it was Kevin Pope .
+- Pero pensé que era Kevin Pope .
+1 2 4 5 7 8 9 10
+================================
+NULL - Kevin Pope is Michael Turner
+- Kevin Pope es Michael Turner
+1 2 3 4 5 6
+================================
+NULL Michael Turner is the concealed identity of Kevin Pope .
+Michael Turner es la identidad encubierta de Kevin Pope .
+1 2 3 4 6 6 7 8 9 10
+================================
+NULL He is a very successful one , very informed , very falsified international negotiator in fine antiques
+Es un muy exitoso , muy informado , muy sofisticado negociador internacional en finas antigüedades
+1 3 4 5 7 4 5 7 4 5 5 5 15 5 5
+================================
+NULL - ...
+- ...
+1 2
+================================
+NULL I would have to receive 2 checks - Health
+Yo debería recibir 2 cheques - Salud
+5 5 5 6 7 8 5
+================================
+NULL This he is cogñac rare , very expensive What you think ?
+Este es un cogñac raro , muy caro ¿ Qué opinas ?
+4 3 4 4 4 6 7 4 12 9 11 12
+================================
+NULL Dry , but never cautious It enchants your shirt to me
+Seco , pero nunca precavido Me encanta tu camisa
+1 2 3 4 1 1 1 8 1
+================================
+NULL Of Egyptian emission
+De emisión egipcia
+1 2 2
+================================
+NULL - 3 days .
+- 3 días .
+1 2 3 4
+================================
+NULL Quite impressive - If , he is shining
+Bastante impresionante - Si , es brillante
+1 1 3 4 5 7 8
+================================
+NULL I believe that she can do it
+Yo creo que puede hacerlo
+5 2 3 5 2
+================================
+NULL - spark Has - I said that he was shining , not that was able to save the world
+- Tiene chispa - Dije que era brillante , no que era capaz de salvar el mundo
+1 2 2 1 6 7 9 10 11 12 7 9 15 15 2 18 19
+================================
+NULL Let us test true to him
+Hagámosle una verdadera prueba
+3 3 4 3
+================================
+NULL - How that ?
+- ¿ Cómo que ?
+1 4 2 3 4
+================================
+NULL - Mándalo to New York .
+- Mándalo a Nueva York .
+1 2 3 5 5 6
+================================
+NULL Ponlo in the department of Kevin
+Ponlo en el departamento de Kevin
+1 2 3 1 5 6
+================================
+NULL It leaves them neighboring , the doorman , all give a look him
+Deja que los vecinos , el portero , todos le den un vistazo
+4 1 3 4 5 6 7 5 9 13 4 11 12
+================================
+NULL To see if they are thought that he is Michael Turner
+A ver si se creen que es Michael Turner
+1 2 3 6 1 7 9 10 11
+================================
+NULL It could serve to us as double intention
+Podría servirnos de doble propósito
+2 3 8 7 3
+================================
+NULL Whoever that it has wanted to kill to Kevin like Michael Turner ... ... probably it does not know that he is dead
+Quien quiera que haya querido matar a Kevin como Michael Turner ... ... probablemente no sabe que está muerto
+1 1 2 1 1 7 6 9 10 11 12 13 13 1 18 1 2 23 23
+================================
+NULL It must continue looking for it
+Debe seguir buscándolo
+3 3 3
+================================
+NULL Then we took it , using it like bait .
+Entonces lo llevamos , usándolo como carnada .
+1 4 9 5 9 8 9 10
+================================
+NULL We maintain it in the dark
+Lo mantenemos en la oscuridad
+1 6 4 5 6
+================================
+NULL - it will be protected - What we say to him ?
+- Estará protegido - ¿ Qué le decimos ?
+1 5 5 1 12 7 11 5 12
+================================
+NULL Dile that we are giving an opportunity him to practice that it is Kevin .
+Dile que le estamos dando una oportunidad para practicar que es Kevin .
+1 2 8 1 1 6 7 1 1 2 13 14 15
+================================
+NULL That is everything what you need to say to him .
+Eso es todo lo que necesitas decirle .
+1 2 3 4 8 6 6 11
+================================
+NULL You are the head
+Tú eres el jefe
+1 4 3 4
+================================
+NULL You see the light truck before we ?
+¿ Ves la camioneta enfrente de nosotros ?
+8 5 3 5 5 4 5 8
+================================
+NULL And the one that this behind ?
+¿ Y la que esta detrás ?
+7 1 2 4 5 6 7
+================================
+NULL Those are our men Here this I number of my cellular telephone
+Esos son nuestros hombres Aquí esta el numero de mi teléfono celular
+1 1 1 4 5 6 11 8 9 10 12 11
+================================
+NULL Úsalo if you put in any class of problem
+Úsalo si te metes en cualquier clase de problema
+1 2 3 1 5 6 7 8 9
+================================
+NULL - That problem class ?
+- ¿ Que clase de problema ?
+1 5 2 4 4 3 5
+================================
+NULL - Any class
+- Cualquier clase
+1 2 3
+================================
+NULL If I strike myself with a horseshoe , and I call , I speak to you with you .
+Si me golpeo con una herradura , y te llamo , hablo contigo .
+1 3 3 5 6 3 8 9 16 3 8 3 14 19
+================================
+NULL This good
+Esta bien
+1 2
+================================
+NULL Cálmate a little .
+Cálmate un poco .
+1 2 3 4
+================================
+NULL Taking this .
+Toma esto .
+1 2 3
+================================
+NULL Cómprate shoes
+Cómprate unos zapatos
+1 1 1
+================================
+NULL - Thanks champion .
+- Gracias campeón .
+1 2 3 4
+================================
+NULL - How it was Europe ?
+- ¿ Cómo estuvo Europa ?
+1 6 2 5 5 6
+================================
+NULL - Like another country .
+- Como otro país .
+1 2 3 4 5
+================================
+NULL They could put this in the MTV nastinesses
+Podrían poner esto en las porquerías de MTV
+7 7 4 5 2 7 1 7
+================================
+NULL Devils , that this is " Top "
+Diablos , que esto es " Top "
+1 2 3 4 5 6 7 6
+================================
+NULL God ...
+Dios ...
+1 2
+================================
+NULL Sight which pays my the taxes
+Mira lo que pagan mis los impuestos
+1 3 2 3 3 6 6
+================================
+NULL Here it is where comes my money , eh ?
+Aquí es donde viene mi dinero , ¿ eh ?
+1 3 4 5 6 7 8 10 9 10
+================================
+NULL It could have the great celebration here
+Podría tener la gran fiesta aquí
+2 6 4 5 6 7
+================================
+NULL - What is that music ?
+- ¿ Qué es esa música ?
+1 6 2 3 5 5 6
+================================
+NULL - That Rap thing - He is terrible
+- Esa cosa Rap - Es terrible
+1 8 4 3 1 6 8
+================================
+NULL You do not forget the radio
+No te olvides de la radio
+3 6 6 6 5 6
+================================
+NULL Hello , Michael .
+Hola , Michael .
+1 2 3 4
+================================
+NULL Welcome again
+Bienvenido nuevamente
+1 2
+================================
+NULL - Either , or - Hey , Hello Anabella
+- Bien , bien - Hey , Hola Anabella
+1 2 3 2 1 6 3 8 9
+================================
+NULL We finished arriving , and the doorman said to us that you were of return
+Acabamos de llegar , y el portero nos dijo que estabas de vuelta
+3 14 3 4 5 6 7 10 3 11 13 14 15
+================================
+NULL - Anabella I miss to you - Oh , you were too amiable
+- Anabella te echo de menos - Oh , fuiste demasiado amable
+1 2 6 4 4 4 1 8 9 4 12 4
+================================
+NULL I was hoping desperately that you returned
+Estuve esperando desesperadamente que volvieras
+3 3 3 5 3
+================================
+NULL - Oh , so that ' ?
+- Oh , ¿ por qué ?
+1 2 3 7 4 6 7
+================================
+NULL - Oh , by our small treasure ... ... we go down and tell me if I must say good bye to him
+- Oh , por nuestro pequeño tesoro ... ... vamos abajo y dime si le tengo que decir adiós
+1 2 3 4 5 6 7 8 8 11 12 13 21 16 23 21 18 21 21
+================================
+NULL - Oh , this good - Support to your drinks
+- Oh , esta bien - Sostén a tu bebe
+1 2 3 4 5 1 7 8 9 10
+================================
+NULL - If , my it drinks - How it was your trip ?
+- Si , mi bebe - ¿ Cómo estuvo tu viaje ?
+1 2 3 4 6 1 13 8 12 11 12 13
+================================
+NULL This is going to be a disaster
+Esto va a ser un desastre
+7 7 4 5 6 7
+================================
+NULL It gives a stroll , my sweet affection
+Da un paseo , mi dulce cariño
+2 3 2 5 6 2 8
+================================
+NULL That you think ?
+¿ Que opinas ?
+4 1 3 4
+================================
+NULL It is a good piece ?
+¿ Es una buena pieza ?
+6 1 5 5 5 6
+================================
+NULL Ohhhh ...
+Ohhhh ...
+1 2
+================================
+NULL She is exquisite
+Es exquisita
+3 3
+================================
+NULL Oh , that you think ?
+Oh , ¿ eso piensas ?
+1 2 6 5 5 6
+================================
+NULL We go , tómala , siéntela ...
+Vamos , tómala , siéntela ...
+6 3 4 3 6 7
+================================
+NULL It sees how delicate is
+Ve cuán delicada es
+4 4 4 5
+================================
+NULL Tómala , no ?
+Tómala , ¿ no ?
+1 2 4 3 4
+================================
+NULL That is only abárrala and ... tómala ...
+Eso es sólo abárrala y ... tómala ...
+1 2 3 4 5 6 7 6
+================================
+NULL Michael ...
+Michael ...
+1 2
+================================
+NULL There he is where we put the trocitos of Doggy
+Ahí es donde ponemos los trocitos de Doggy
+1 3 4 8 8 8 9 8
+================================
+NULL Of course that knew that , only he was removing it from means ...
+Por supuesto que sabía eso , sólo lo estaba sacando del medio ...
+1 2 3 10 3 6 7 11 4 10 13 10 14
+================================
+NULL - ... thus I can see ......
+- ... así puedo ver el ... el ...
+1 2 3 5 6 7 2 7 2
+================================
+NULL - the vase - the vase , of course
+- El jarrón - El jarrón , por supuesto
+1 3 3 1 3 3 7 3 9
+================================
+NULL The vase , yes .
+El jarrón , sí .
+1 2 3 4 5
+================================
+NULL Oh , I can ask how much you paid by this ?
+Oh , ¿ puedo preguntar cuánto pagaste por esto ?
+1 2 12 4 5 6 9 10 11 12
+================================
+NULL Deceit to the doorman , deceit to the neighbor and deceit to the dog of the neighbor
+Engaño al portero , engaño a la vecina y engaño al perro de la vecina
+1 1 4 5 1 2 3 1 10 1 1 1 15 3 1
+================================
+NULL - That you want ?
+- ¿ Que quieres ?
+1 5 2 4 5
+================================
+NULL - Oaks , we needed to know that this behind that pump
+- Oaks , necesitamos saber quien esta detrás de esa bomba
+1 2 3 5 2 2 9 10 10 2 12
+================================
+NULL This ready to sacrifice it to find out it
+Esta dispuesto a sacrificarlo para averiguarlo
+1 4 3 4 4 7
+================================
+NULL You are not dramatic , has total protection
+No seas dramático , tiene plena protección
+3 4 4 5 6 4 4
+================================
+NULL I will say to you when we will remove it
+Te diré cuando lo sacaremos
+2 3 6 10 9
+================================
+NULL I hope that they are not watching this
+Espero que no estén mirando esto
+2 3 6 7 7 8
+================================
+NULL I do not have to do this , nonSir ?
+No tengo que ver esto , ¿ no señor ?
+3 9 1 9 7 8 10 3 9 10
+================================
+NULL Oh , no , oh not ...
+Oh , no , oh no ...
+1 2 3 2 5 3 7
+================================
+NULL Red code , red Code
+Código rojo , Código rojo
+1 1 3 1 1
+================================
+NULL Red code .
+Código rojo .
+1 1 3
+================================
+NULL Red code
+Código rojo
+1 1
+================================
+NULL There was an attack .
+Hubo un ataque .
+4 3 4 5
+================================
+NULL Cover the access
+Cubran el acceso
+1 2 3
+================================
+NULL Aid !
+Socorro !
+1 2
+================================
+NULL Aid !
+Socorro !
+1 2
+================================
+NULL Aid !
+Socorro !
+1 2
+================================
+NULL - Sir , goes to the roof - we needed It alive - Yes , Sir
+- Señor , se dirige a la azotea - Lo necesitamos vivo - Sí , señor
+1 2 3 7 7 5 6 7 1 7 10 7 1 14 3 2
+================================
+NULL Loose the knife !
+Suelta el cuchillo !
+1 2 3 4
+================================
+NULL Hey Elvis , loose the low knife and of there
+Hey Elvis , suelta el cuchillo y baja de ahí
+1 2 3 2 5 7 8 6 9 2
+================================
+NULL Nobody goes to lastimarte
+Nadie va a lastimarte
+1 2 3 1
+================================
+NULL And well , who is going to go to review ?
+Y bien , ¿ quien va a ir a revisar ?
+1 2 3 11 10 10 7 8 7 10 11
+================================
+NULL - Good , last the 10 minutes have served to teach to like leaving running and leaving the operation totally ...
+- Bueno , los últimos 10 minutos han servido para enseñar a como salir corriendo y a como dejar la operación totalmente ...
+1 2 3 4 4 6 7 9 9 7 9 10 13 9 9 16 10 13 9 5 19 20 21
+================================
+NULL - Thrown to lose , Sir ?
+- ¿ Echada a perder , señor ?
+1 7 2 3 4 5 6 7
+================================
+NULL - Thanks
+- Gracias
+1 2
+================================
+NULL We will find Sir
+Lo encontraremos señor
+1 3 4
+================================
+NULL - If , where these ?
+- Si , ¿ donde estas ?
+1 2 3 6 4 5 6
+================================
+NULL - In the corner of " It eats excrement " and " It vetoes the devil "
+- En la esquina de " Come mierda " y " Vete al diablo "
+1 2 3 4 5 6 4 4 6 11 6 4 4 4 6
+================================
+NULL I am not going to leave you track the call .
+No voy a dejar que rastrees la llamada .
+3 2 5 6 1 8 9 8 11
+================================
+NULL I will call given back to you
+Te llamaré devuelta
+2 3 4
+================================
+NULL - I am clogged in a simple problem of transit -- - Dame that !
+- Estoy atascado en un simple problema de tránsito -- - Dame eso !
+1 4 4 5 6 7 8 9 4 11 1 13 4 15
+================================
+NULL Very well , they obtain fingerprints , DNA , any thing with that we pruned to identify the man who jumped of the ceiling
+Muy bien , consigan huellas digitales , ADN , cualquier cosa con la que podamos identificar al hombre que saltó del techo
+1 2 3 6 6 6 3 8 3 10 11 12 18 20 6 6 6 19 20 6 6 6
+================================
+NULL Yes , Sir It seems like a gang member , gentleman
+Sí , señor Parece como un pandillero , señor
+1 2 11 8 6 7 8 2 11
+================================
+NULL You do not worry for that reason They only find to Jake
+No te preocupes por eso Sólo encuentren a Jake
+3 4 4 5 7 7 7 11 12
+================================
+NULL - Jake ...
+- Jake ...
+1 2 3
+================================
+NULL - Kevin was assassinated , as they want to me to assassinate my , right ?
+- ¿ Kevin fue asesinado , como me quieren asesinar a mi , verdad ?
+1 16 2 4 4 5 6 10 12 12 9 13 5 12 16
+================================
+NULL - Jake , déjame explicarte something ...
+- Jake , déjame explicarte algo ...
+1 2 3 4 4 6 7
+================================
+NULL - No , no , no , demons
+- No , no , no , demonios
+1 2 3 4 3 4 3 8
+================================
+NULL We lost it because we lay to him
+Lo perdimos porque le mentimos
+1 6 4 8 6
+================================
+NULL No , you lost it because you lost it
+No , lo perdiste porque lo perdiste
+1 2 5 4 6 5 4
+================================
+NULL We treated it like an idiot
+Lo tratamos como un idiota
+6 2 4 5 6
+================================
+NULL He has right to knowing what we are doing with him
+Tiene derecho a saber lo que estamos haciendo con él
+5 5 4 5 6 8 7 9 10 5
+================================
+NULL We are wasting time .
+Estamos perdiendo tiempo .
+3 3 4 5
+================================
+NULL Encuéntralo and tráelo of return .
+Encuéntralo y tráelo de vuelta .
+1 2 1 4 5 6
+================================
+NULL Your conscience evades
+Evade tu conciencia
+2 2 2
+================================
+NULL That my conscience evades
+Que evada mi conciencia
+1 3 2 3
+================================
+NULL - If - Ah , hello , hello Pam , I am Jake I can speak with July ?
+- Si - Ah , hola , hola Pam , Soy Jake ¿ Puedo hablar con July ?
+1 2 1 4 5 6 5 6 9 5 6 13 19 6 16 17 18 19
+================================
+NULL She does not want to speak with you
+Ella no quiere hablar contigo
+1 3 6 6 6
+================================
+NULL Who this on the telephone ?
+¿ Quién esta en el teléfono ?
+6 1 2 3 4 5 6
+================================
+NULL Pam , I need to speak with July , please , please , is urgent
+Pam , necesito hablar con July , por favor , por favor , es urgente
+1 2 15 6 7 8 2 10 10 2 10 10 2 14 15
+================================
+NULL It is Jake ?
+¿ Es Jake ?
+4 1 3 4
+================================
+NULL Déjame to speak with
+Déjame hablar con el
+1 3 4 1
+================================
+NULL She this leaving ahead
+Ella esta saliendo adelante
+1 2 4 4
+================================
+NULL Dame the telephone
+Dame el teléfono
+1 2 3
+================================
+NULL We did not need but Jake problems , you understand ?
+No necesitamos mas problemas Jake , ¿ entiendes ?
+3 7 7 7 6 8 11 10 11
+================================
+NULL And your you are not another thing that problems
+Y tu no eres otra cosa que problemas
+1 2 5 6 6 7 8 9
+================================
+NULL - Pam ...
+- Pam ...
+1 2 3
+================================
+NULL - Two men in suits were buscándote here
+- Dos hombres en trajes estuvieron aquí buscándote
+1 2 3 4 2 2 8 2
+================================
+NULL Dame the telephone
+Dame el teléfono
+1 2 3
+================================
+NULL Hey , low a little the voice , low a little ...
+Hey , baja un poco la voz , , baja un poco ...
+1 2 3 4 5 6 7 2 2 3 4 5 12
+================================
+NULL It is well , Oh ...
+Está bien , Oh ...
+3 3 4 5 6
+================================
+NULL If July this there dile that the master and that Oaks and other kisses the buttock to me
+Si July esta ahí dile que la amo y que Oaks y los demás me besen el trasero
+1 2 3 5 5 6 7 5 9 6 11 9 5 5 18 5 7 16
+================================
+NULL - You were able to track it ?
+- ¿ Conseguiste rastrearlo ?
+1 8 6 6 8
+================================
+NULL - No
+- No
+1 2
+================================
+NULL It hung the telephone
+Colgó el teléfono
+2 3 4
+================================
+NULL Where demons You are ?
+¿ Donde demonios están Uds . ?
+5 1 2 4 2 0 5
+================================
+NULL Breast , Breast , I am , am I , am I
+Mama , Mama , soy yo , soy yo , soy yo
+1 2 1 2 1 6 2 1 6 2 1 6
+================================
+NULL - Jakie ?
+- ¿ Jakie ?
+1 3 2 3
+================================
+NULL - If , if , if , if ... you do not break my arm
+- Si , si , si , si ... no rompas mi brazo
+1 2 3 4 3 4 3 4 9 12 13 14 15
+================================
+NULL - That you did ?
+- ¿ Que hiciste ?
+1 5 2 4 5
+================================
+NULL - I did not do anything
+- No hice nada
+1 4 3 6
+================================
+NULL I did not do anything !
+No hice nada !
+3 2 5 6
+================================
+NULL It is not what you think .
+No es lo que piensas .
+3 2 4 1 6 7
+================================
+NULL It is not the police
+No es la policía
+3 2 4 5
+================================
+NULL He is very long to explain ...
+Es muy largo de explicar ...
+1 3 6 6 6 7
+================================
+NULL Sight this ...
+Mira esto ...
+1 2 3
+================================
+NULL 8 adoptive children have come to my house throughout the years ... .. and everything has done something of their lives , and no tapeworm your potential
+8 niños adoptivos han venido a mi casa a lo largo de los años ... .. y todo han hecho algo de sus vidas , y ninguno tenia tu potencial
+1 2 2 2 2 6 7 8 6 3 2 19 27 11 12 13 14 15 2 17 18 19 20 2 22 14 2 25 26 27
+================================
+NULL Oh , we go breast
+Oh , vamos mama
+1 2 4 5
+================================
+NULL Wise people who tapeworm a brother ?
+- Mama ... ... ¿ Sabias que tenia un hermano ?
+1 1 4 4 7 1 3 4 5 6 7
+================================
+NULL Oh , lets say madnesses You have many brothers
+Oh , deja de decir locuras Tienes muchos hermanos
+1 2 3 8 3 3 3 3 3
+================================
+NULL How this the pretty girl that I knew Christmas last ?
+¿ Cómo esta la linda chica que conocí la navidad pasada ?
+11 1 2 3 9 5 6 9 3 9 9 11
+================================
+NULL - she left Me - Dame an umbrella so that golpearte can the ankles
+- Me dejó - Dame un paraguas para que pueda golpearte los tobillos
+1 8 3 1 6 7 8 8 10 8 8 8 8
+================================
+NULL Perhaps you know breast , was not my fault ?
+Sabes mama , ¿ tal vez no fue mi culpa ?
+9 4 5 10 9 9 7 9 8 9 10
+================================
+NULL - You need money - No
+- Necesitas dinero - No
+1 3 4 1 6
+================================
+NULL - If , if , if .
+- Si , si , si .
+1 2 3 4 3 4 7
+================================
+NULL I need money
+Necesito dinero
+2 3
+================================
+NULL How much you need ?
+¿ Cuánto necesitas ?
+5 2 4 5
+================================
+NULL Gain 250 dollars in bingo
+Gane 250 dólares en el bingo
+1 1 3 4 1 1
+================================
+NULL It is ... is only by a small time You I will give back it
+Es ... es sólo por un pequeño tiempo Te lo devolveré
+1 3 2 5 6 7 8 9 12 15 13
+================================
+NULL I am never going to leave single Jakie to you
+Nunca te voy a dejar solo Jakie
+3 10 2 5 6 7 8
+================================
+NULL You will do something that makes me feel truely proud a day
+Harás algo que me haga sentir verdaderamente orgullosa un día
+6 4 5 7 6 6 6 6 11 12
+================================
+NULL I know that you will do it
+Sé que lo harás
+2 3 7 5
+================================
+NULL I must an excuse to you
+Te debo una disculpa
+4 4 3 4
+================================
+NULL You hear to me ?
+¿ Me oyes ?
+5 4 2 5
+================================
+NULL - Only I ask whichever people are listening to us - No , we are single
+- Sólo me pregunto cuantas personas están escuchándonos - No , estamos solos
+1 2 4 4 5 6 7 4 1 12 13 14 4
+================================
+NULL Without it has , without microphones .
+Sin hay , sin micrófonos .
+1 1 4 5 1 7
+================================
+NULL Only I.
+Sólo yo .
+1 2 0
+================================
+NULL - You have the plug - His brother was assassinated
+- Ud . tiene el enchufe - Su hermano fue asesinado
+1 2 0 5 4 5 1 7 8 10 10
+================================
+NULL By such types that came behind my , certain ?
+Por los mismos tipos que vinieron tras de mi , ¿ cierto ?
+1 2 2 3 4 2 2 3 7 8 10 9 10
+================================
+NULL If , I suppose .
+Si , supongo .
+1 2 4 5
+================================
+NULL Making the same work that beams your
+Haciendo el mismo trabajo que haces tu
+1 2 1 4 5 1 7
+================================
+NULL That it is that ' ?
+¿ Que es qué ?
+6 1 3 5 6
+================================
+NULL Its brother , as Michael Turner were to me helping to buy something in the black market
+Su hermano , como Michael Turner me estaba ayudando a comprar algo en el mercado negro
+1 2 3 4 5 6 9 12 12 8 12 13 14 15 17 12
+================================
+NULL Cuban cigarettes , games for the Play Station 3 , that ' ?
+Cigarros cubanos , juegos para el Play Station 3 , ¿ qué ?
+1 1 3 1 5 6 1 1 9 3 13 12 13
+================================
+NULL I will not say that to you until it does not know that you return to work with us
+No te diré eso hasta que no sepa que vuelves a trabajar con nosotros
+3 7 4 5 8 5 3 15 5 15 6 17 18 19
+================================
+NULL Good , I will not return with You if me they do not say it
+Bueno , no volveré con Uds . si no me lo dicen
+1 2 5 6 7 6 0 9 5 10 15 6
+================================
+NULL His brother died saving my life , Wise person that ?
+Su hermano murió salvando mi vida , ¿ Sabia eso ?
+1 2 3 4 5 6 7 11 4 4 11
+================================
+NULL He had to be of another way , but thus he is as he is
+Debió ser de otra manera , pero así es como es
+10 4 5 6 7 8 9 10 12 13 12
+================================
+NULL How they took its parents ?
+¿ Cómo lo tomaron sus padres ?
+6 1 3 3 3 5 6
+================================
+NULL They did not say to him to the parents . ?
+¿ No le dijeron a los padres .. ?
+11 3 6 9 5 9 9 9 11
+================================
+NULL No , it is as well as we want it
+No , es así como lo queremos
+1 2 4 5 5 3 5
+================================
+NULL How you would feel if you died and nobody said to him to your wife ?
+¿ Cómo te sentirías si murieras y nadie le dijera a tu esposa ?
+16 1 2 9 5 9 8 9 12 9 11 14 15 16
+================================
+NULL I am not married
+No estoy casado
+3 4 4
+================================
+NULL That spy Mrs. does not exist ?
+¿ Que no existe la Sra . espía ?
+7 1 5 3 3 3 0 3 7
+================================
+NULL No longer , the relations and the affections are useless in this business
+Ya no , las relaciones y los cariños son inútiles en este negocio
+5 2 3 2 5 6 5 5 5 5 11 5 5
+================================
+NULL Then that is what is east work , even without they shoot to you , they clear the life to you
+Entonces eso es lo que es este trabajo , aun sin que te disparen , te quitan la vida
+1 6 3 4 2 3 6 7 8 6 10 2 14 12 8 14 6 18 19
+================================
+NULL Me these not offering anything , except the opportunity of one bleat in my buttock
+No me estas ofreciendo nada , excepto la oportunidad de una bala en mi trasero
+3 4 2 4 5 6 7 8 9 10 11 4 13 14 15
+================================
+NULL Not him encounter an important sense to that
+No le encuentro un sentido trascendente a eso
+1 2 3 4 3 3 7 3
+================================
+NULL - I will say to You what I am going to do - Thanks
+- Te diré lo que voy a hacer - Gracias
+1 3 4 7 2 9 5 12 1 14
+================================
+NULL I am going to go outside , I am going away to seat in the car and am going to count up to 10
+Voy a ir afuera , me voy a sentar en el auto y voy a contar hasta 10
+21 4 5 21 7 13 2 4 13 14 15 16 17 2 4 21 22 24
+================================
+NULL If you want unirte to my , well .
+Si quieres unirte a mi , bien .
+1 3 4 5 6 7 8 9
+================================
+NULL If no , I will say to him to the agency that I could not encontrarte
+Si no , le diré a la agencia que no pude encontrarte
+1 2 3 8 6 7 10 11 12 2 11 11
+================================
+NULL We cannot remove ahead this work without you
+No podemos sacar adelante este trabajo sin ti
+2 3 3 4 7 6 7 3
+================================
+NULL We needed to you
+Te necesitamos
+2 2
+================================
+NULL Piénsalo
+Piénsalo
+1
+================================
+NULL - and , you could evaluate it already ?
+- ¿ Y , pudiste evaluarlo ya ?
+1 9 6 3 6 6 8 9
+================================
+NULL - No
+- No
+1 2
+================================
+NULL " I am going to go outside and I am going to count up to 10 "
+" Voy a ir afuera y voy a contar hasta 10 "
+1 13 5 6 13 8 3 5 13 14 16 1
+================================
+NULL Who demons are You ?
+¿ Quién demonios es Ud . ?
+5 1 2 2 4 0 5
+================================
+NULL He had not done it better if there were a dog put in the car
+No lo hubiera hecho mejor si hubiera una perra metida en el auto
+3 5 11 4 6 7 11 10 11 11 13 14 15
+================================
+NULL Oh if ...
+Oh si ...
+1 2 3
+================================
+NULL Metete in the car ...
+Metete en el auto ...
+1 2 3 4 5
+================================
+NULL Dog !
+Perra !
+1 2
+================================
+NULL This he is the man who treatment of matarte
+Este es el hombre que trato de matarte
+9 3 4 5 6 7 8 9
+================================
+NULL Now we know that it is member of an organization multinational terrorist , sent by this man
+Ahora sabemos que es miembro de una organización terrorista multinacional , enviado por este hombre
+1 10 4 6 10 8 9 10 10 10 13 10 15 17 17
+================================
+NULL He knows the man who killed your brother
+Conoce al hombre que mató a tu hermano
+2 1 4 5 2 6 7 8
+================================
+NULL Dugarlik Jonish
+Dugarlik Jonish
+1 1
+================================
+NULL It is looked for to judge it by crimes against the humanity , They can capture it of the world anywhere , inclusively it was found guilty in its country , Yugoslavia
+Es buscado para enjuiciarlo por crímenes contra la humanidad , Pueden capturarlo en cualquier parte del mundo , inclusive fue hallado culpable en su país , Yugoslavia
+1 6 4 6 8 6 10 11 6 13 6 6 28 6 6 21 20 13 6 6 6 27 28 29 30 13 6
+================================
+NULL Llama to its movement the black hand
+Llama a su movimiento la mano negra
+1 2 3 1 5 7 1
+================================
+NULL Their members fight until the death , become in suicidal soldiers to obtain its cause
+Sus miembros pelean hasta la muerte , se convierten en soldados suicidas para lograr su causa
+1 1 1 4 5 1 7 8 1 9 1 1 13 1 14 1
+================================
+NULL The last year the FBI I capture 4 of these men in a hotel of Washington DC . , with sufficient explosives like flying all the capital building
+El año pasado el FBI capturo a 4 de estos hombres en un hotel de Washington DC . , con suficientes explosivos como para volar todo el edificio capital
+1 3 28 4 5 5 5 8 9 10 11 12 13 5 9 5 5 18 19 20 5 5 23 7 5 25 4 28 5
+================================
+NULL It does not like America , and it does not like your
+No le gustan los América , y no le gustas tu
+3 5 5 5 5 6 7 3 5 5 12
+================================
+NULL A minute .
+Un minuto .
+1 2 3
+================================
+NULL That I did ?
+¿ Que hice ?
+4 1 3 4
+================================
+NULL - You are your rival buyer ...
+- Eres tu comprador rival ...
+1 5 4 6 5 7
+================================
+NULL - For the device that this man must sell
+- Para el dispositivo que este hombre tiene que vender
+1 2 3 4 5 9 7 9 5 9
+================================
+NULL The this Audrik Vass .
+Este el Audrik Vass .
+3 3 3 4 5
+================================
+NULL He is Russian .
+Es ruso .
+1 3 4
+================================
+NULL Ex- Coronel of the Navy ... ... involved in the Russian Mafia , this behind of prostitution , drugs and extorsion
+Ex- Coronel de la Armada ... ... involucrado en la mafia rusa , esta detrás de la prostitución , drogas y extorsión
+1 1 3 4 1 6 6 1 9 4 1 1 13 14 15 3 4 1 13 1 20 1
+================================
+NULL It sounds like anyone of which they have gone to the school with me
+Suena como cualquiera de los que han ido al colegio conmigo
+4 3 4 5 4 6 4 4 12 12 4
+================================
+NULL This man is the right hand of Vass
+Este hombre es la mano derecha de Vass
+1 2 3 4 6 6 7 8
+================================
+NULL Its name is Michelle Petrov , better well- known like " the hammer "
+Su nombre es Michelle Petrov , mejor conocido como " El martillo "
+1 2 3 4 5 6 7 5 10 11 13 13 11
+================================
+NULL It remembers these faces , because you will be seeing them soon
+Recuerda estos rostros , porque los estarás viendo pronto
+2 3 2 5 6 11 2 10 2
+================================
+NULL So that they call " the hammer to him " to this man ?
+¿ Por que le llaman " El martillo " a este hombre ?
+14 1 2 9 7 5 7 7 5 8 13 13 14
+================================
+NULL - That ' ?
+- ¿ Qué ?
+1 4 3 4
+================================
+NULL This it is a test of which we called " the attack surprise " to prove your weaknesses
+Este es un ensayo de lo que llamamos " El ataque sorpresa " para probar tus debilidades
+13 3 4 13 6 2 7 13 10 13 12 13 10 13 13 13 13
+================================
+NULL That you can say to me about your attackers ?
+¿ Que puedes decirme acerca de tus atacantes ?
+10 1 9 9 7 9 9 9 10
+================================
+NULL They woke up to me ...
+Me despertaron ...
+2 2 6
+================================
+NULL Man watches , if I am going to spy , I am going to need my rest
+Mire hombre , si voy a espiar , voy a necesitar mi descanso
+2 9 3 4 6 8 9 3 6 8 9 16 9
+================================
+NULL Whatever were ?
+¿ Cuantos eran ?
+3 1 1 3
+================================
+NULL - I did not say that they woke up to me - If , that is the intention in an ambush , the next time we deal with advertirte
+- No dije que me despertaron - Si , esa es la intención en una emboscada , la próxima vez trataremos de advertirte
+1 4 21 6 11 8 1 13 14 21 16 17 21 19 20 21 14 17 24 24 21 18 21
+================================
+NULL You understand what finishes just of sucederte now , no ?
+¿ Entiendes lo que acaba de sucederte justo ahora , no ?
+11 7 3 7 7 6 7 5 8 9 10 11
+================================
+NULL If , I were kidnapped
+Si , fui secuestrado
+1 2 5 5
+================================
+NULL You are in panic ?
+¿ Estás en pánico ?
+5 4 3 4 5
+================================
+NULL When you thought that you were in danger , your brain was extinguished
+Cuando pensaste que estabas en peligro , tu cerebro se apagó
+1 8 4 6 7 8 9 10 11 3 13
+================================
+NULL Then , as it is the point to have a good one brain , if you cannot maintain operating it
+Entonces , cual es el punto de tener un buen cerebro , si no puedes mantenerlo operando
+1 2 19 5 6 7 7 9 10 19 13 2 15 17 19 19 19
+================================
+NULL My brain was not extinguished
+Mi cerebro no se apagó
+1 2 4 2 5
+================================
+NULL It knew that it was Swanson because it could feel his sines in my back
+Sabía que era Swanson porque podía sentir sus senos en mi espalda
+2 3 5 6 7 12 12 12 12 13 14 12
+================================
+NULL It knew that it was Kaerugg , because its breath smells like horrible Probably to kiss buttocks all along
+Sabía que era Kaerugg , porque su aliento huele como horrible Probablemente por besar traseros todo el tiempo
+2 3 5 6 7 8 9 10 10 12 13 14 10 10 10 18 19 19
+================================
+NULL It knew that it was Seill , because it takes his wallet Hey Seill , Because a married man needs a preservative ?
+Sabía que era Seill , porque tome su billetera Hey Seill , ¿ Porque un hombre casado necesita un preservativo ?
+12 3 5 6 7 8 12 11 12 13 6 7 23 16 17 19 18 12 17 12 23
+================================
+NULL Your wife knows it
+Tu esposa lo sabe
+1 2 4 3
+================================
+NULL - She wants to know as I knew that You were ?
+- ¿ Quiere saber como supe que era Ud . ?
+1 12 3 3 6 3 9 8 10 0 12
+================================
+NULL - This good .
+- Esta bien .
+1 2 3 4
+================================
+NULL Thanks .
+Gracias .
+1 2
+================================
+NULL The game has finished
+El juego ha terminado
+1 2 4 4
+================================
+NULL - Good night - Oh , where goes ?
+- Buenas Noches - Oh , ¿ donde va ?
+1 3 8 1 5 6 9 7 8 9
+================================
+NULL One is going away to go likewise , eh ?
+¿ Se va a ir así nomás , eh ?
+10 7 7 5 6 7 7 8 9 10
+================================
+NULL Return
+Vuelva
+1
+================================
+NULL They woke up to me .
+Me despertaron .
+2 2 6
+================================
+NULL Let us do something .
+Hagamos algo .
+1 4 5
+================================
+NULL We go to a Club or something
+Vamos a un Club o algo
+5 3 4 5 6 7
+================================
+NULL Based on our projection of intelligence and in technical manual proveído by Pope agent ... .. this it is the model of which You will be buying
+Basado en nuestra proyección de inteligencia y en el manual técnico proveído por el agente Pope ... .. este es el modelo de lo que Ud . estará comprando
+1 8 1 1 5 1 7 8 20 10 1 1 12 20 14 13 15 16 1 19 20 1 5 18 23 24 0 1 1
+================================
+NULL - Can reproduce DVD' s ?
+- ¿ Puede reproducir DVD' s ?
+1 6 3 3 3 3 6
+================================
+NULL - It is a portable thermonuclear weapon
+- Es un arma termo- nuclear portable
+1 2 4 5 5 5 5
+================================
+NULL Then , it is a pump ?
+¿ Entonces , es una bomba ?
+7 1 2 4 5 6 7
+================================
+NULL - It is a reproduction
+- Es una reproducción
+1 2 5 5
+================================
+NULL The last year the true Russian suitcase- pump was robbed of a dismantled building , in European Mountains . ...
+El año pasado la verdadera maleta- bomba rusa fue robada de un edificio desmantelado , en la Montañas Europeas .. ...
+1 3 14 4 5 7 8 7 18 7 11 12 14 7 15 16 4 7 7 7 20
+================================
+NULL Your brother has tracked them up to here We needed that you recover it
+Tu hermano los ha rastreado hasta aquí Necesitamos que la recuperes
+1 2 5 4 4 6 8 4 11 6 4
+================================
+NULL - That is what you must do - In addition to cagar to me in the trousers
+- Eso es lo que tienes que hacer - Además de cagarme en los pantalones
+1 2 3 4 6 10 6 7 1 10 10 10 15 10 10
+================================
+NULL The Prague - Czech Republica
+Praga - Republica Checa
+2 3 5 4
+================================
+NULL Welcome to the Prague
+Bienvenido a Praga
+1 2 4
+================================
+NULL It is looked like Nework
+Se parece a Nework
+5 5 5 5
+================================
+NULL - Thanks , Lampenka .
+- Gracias , Lampenka .
+1 2 3 4 5
+================================
+NULL I hope that it accompanies to me until my room .
+Espero que me acompañe hasta mi cuarto .
+2 3 7 5 8 9 5 11
+================================
+NULL - Certainly no , Sir .
+- Ciertamente no , señor .
+1 2 3 4 5 6
+================================
+NULL - She is beautiful - Its name is Lempka , but you finish it calling Lampenka , which means " inaccessible "
+- Es hermosa - Su nombre es Lempka , pero la acabas de llamar Lampenka , lo que significa " inaccesible "
+1 13 4 1 6 7 3 9 10 11 15 9 15 9 16 10 14 18 19 20 9 20
+================================
+NULL Man , is going to be difficult to return to Jersey
+Hombre , va a ser difícil volver a Jersey
+11 2 11 5 6 7 11 5 11
+================================
+NULL We will be in the room crossing the corridor
+Estaremos en la habitación cruzando el pasillo
+7 4 5 6 7 5 7
+================================
+NULL With cameras and it completes monitoring in this room
+Con cámaras y completa vigilancia en esta habitación
+1 2 3 2 6 7 8 9
+================================
+NULL I already know it , when I go bathroom I press the button of " monitoring "
+Ya lo sé , cuando voy al baño presiono el botón de " vigilancia "
+2 4 9 5 6 9 9 9 9 12 9 14 15 16 15
+================================
+NULL It only remains in the room .
+Sólo permanece en la habitación .
+3 3 4 5 6 7
+================================
+NULL You do not have anything of which preocuparte
+No tienes nada de que preocuparte
+3 8 5 6 7 8
+================================
+NULL If , except by that small stupid idiot with the nuclear pump
+Si , excepto por ese pequeño imbécil con la bomba nuclear
+1 2 3 4 7 6 7 9 10 12 11
+================================
+NULL This good .
+Esta bien .
+1 2 3
+================================
+NULL This is my completes class of instructions for you
+Esta es mi ultima clase de instrucciones para ti
+1 2 3 7 5 6 7 8 7
+================================
+NULL Nothing will happen , until it calls .
+Nada pasará , hasta que él llame .
+1 1 4 5 3 1 1 8
+================================
+NULL Unless I must recordarte from now on that ... ... there is no Jake , is no Kevin .
+Excepto que debo recordarte que desde ahora ... ... no hay Jake , no hay Kevin .
+1 8 1 1 8 1 6 9 9 13 1 14 15 13 1 18 19
+================================
+NULL Only Michael Turner
+Sólo Michael Turner
+1 2 3
+================================
+NULL Well , I believe that I am going to recostar itself and to be Michael Turner
+Bien , creo que voy a recostarme y ser Michael Turner
+1 2 4 5 7 9 10 12 14 15 16
+================================
+NULL I thought that perhaps you want to throw a look to him to this
+Pensé que tal vez quieras echarle un vistazo a esto
+4 3 4 10 4 4 9 10 7 14
+================================
+NULL Very well , that demons is what this doing now ?
+Muy bien , ¿ que demonios es lo que esta haciendo ahora ?
+1 2 3 11 4 5 6 7 4 8 9 10 11
+================================
+NULL Hey , you want to share ?
+Hey , ¿ quieres compartir ?
+1 2 7 4 6 7
+================================
+NULL - Beluga , gentleman .
+- Beluga , señor .
+1 2 3 4 5
+================================
+NULL 12 . 000 crowns the portion
+12 . 000 coronas la porción
+1 2 3 4 5 4
+================================
+NULL The celebration finished
+La fiesta terminó
+1 2 3
+================================
+NULL No , the celebration just begins As soon as it finishes here , I am going to have my bath of buttock
+No , la fiesta recién comienza Tan pronto como termine aquí , voy a tener mi baño de trasero
+1 2 3 4 6 6 6 6 9 6 12 2 15 17 4 19 20 21 22
+================================
+NULL - This small chanchito went to the supermarket ...
+- Este pequeño chanchito fue al supermercado ...
+1 4 3 4 5 4 4 9
+================================
+NULL - Asegúrate to put my initials in the big toe
+- Asegúrate de poner mis iniciales en el dedo gordo
+1 2 9 2 2 6 7 8 2 2
+================================
+NULL One does not know the feet of whom they are these
+No se sabe los pies de quién son estos
+3 9 6 1 6 7 8 6 11
+================================
+NULL That is Vass Where this the cellular telephone ?
+Ese es Vass ¿ Donde esta el teléfono celular ?
+7 2 3 9 4 5 6 8 7 9
+================================
+NULL Telephone , telephone , telephone , telephone , telephone
+Teléfono , teléfono , teléfono , teléfono , teléfono
+1 2 3 2 3 2 3 2 3
+================================
+NULL Thanks
+Gracias
+1
+================================
+NULL Shhh ...
+Shhh ...
+1 2
+================================
+NULL Hello ...
+¿ Hola ... ?
+0 1 2 0
+================================
+NULL If , we will be there
+Si , estaremos allí
+1 2 5 6
+================================
+NULL It was Vass The treatment will be in one hour
+Era Vass El trato será en una hora
+10 3 4 5 10 8 9 10
+================================
+NULL Now , your eye .
+Ahora , tu ojo .
+1 2 3 4 5
+================================
+NULL Right sight in the screen of the computer
+Mira derecho en la pantalla de la computadora
+2 2 3 4 2 6 4 8
+================================
+NULL Delay by the confirmation
+Espera por la confirmación
+1 2 3 4
+================================
+NULL Very well , that is everything
+Muy bien , eso es todo
+1 2 3 4 5 6
+================================
+NULL - Very well .
+- Muy bien .
+1 2 3 4
+================================
+NULL - From this moment , only your you will be able to accede to your computer
+- Desde este momento , sólo tu serás capaz de acceder a tu computadora
+1 2 2 4 5 6 7 2 11 10 2 12 7 16
+================================
+NULL It will not operate without your retinal company/ signature ... your eyes so , when they show the pump to you ... ... it connects your Laptop , determines if she is the true one ... ... and tómate sufficient time doing it , so that Wells can unload the codes of the armed one
+No operará sin tu firma retinal ... tus ojos así que , cuando te muestren la bomba ... ... conecta tu Laptop , determina si es la verdadera ... ... y tómate suficiente tiempo haciéndolo , para que Wells pueda descargar los códigos de la armado
+3 4 5 6 4 4 10 4 4 4 46 14 15 21 4 18 19 10 10 4 6 4 14 4 30 32 18 34 10 10 38 4 40 41 4 14 4 46 4 4 4 54 51 52 18 4
+================================
+NULL Unfortunately , there are no codes of disarmament in any of the computers .
+Desafortunadamente , no hay códigos de desarme en ninguna de las computadoras .
+1 2 5 1 6 7 1 9 1 7 1 1 14
+================================
+NULL We have visual contact
+Tenemos contacto visual
+1 4 3
+================================
+NULL You will do it well
+Lo harás bien
+4 2 5
+================================
+NULL Everybody knows that it is your first " day of school "
+Todo el mundo sabe que es tu primer " día de escuela "
+1 7 1 2 3 5 6 7 8 9 10 1 8
+================================
+NULL It always lacks the first day of school
+Siempre falte el primer día de escuela
+3 3 4 5 6 7 3
+================================
+NULL You do not worry , already will cause that you take hold the hand to him
+No te preocupes , ya harán que le agarres la mano
+3 10 4 5 6 12 9 16 12 13 14
+================================
+NULL I cannot hope to know " the hammer "
+No puedo esperar a conocer a " El martillo "
+2 2 3 4 8 4 6 8 8 6
+================================
+NULL And these types must be the toolbox
+Y estos tipos deben ser la caja de herramientas
+1 2 3 7 5 6 7 3 7
+================================
+NULL - We must come , Sir ?
+- ¿ Debemos proceder , señor ?
+1 7 4 4 5 6 7
+================================
+NULL - No , until we are sure that they brought the pump
+- No , hasta que estemos seguros de que trajeron la bomba
+1 2 3 4 8 7 7 7 8 7 11 12
+================================
+NULL There is too much in game
+Hay demasiado en juego
+1 3 5 6
+================================
+NULL Pretty shelter
+Lindo abrigo
+1 1
+================================
+NULL Horsemen , we are going to make businesses or we retired ?
+Caballeros , ¿ vamos a hacer negocios o nos retiramos ?
+1 2 12 3 6 1 8 9 1 1 12
+================================
+NULL It depends , Michael ...
+Depende , Michael ...
+2 3 4 5
+================================
+NULL Where there are been in the last 9 days ?
+¿ Donde has estado en los últimos 9 días ?
+10 1 7 4 5 7 7 8 9 10
+================================
+NULL I do not believe that that is subject yours
+No creo que eso sea asunto tuyo
+3 4 5 9 9 8 9
+================================
+NULL Oh , you are mistaken , concerns much to me ...
+Oh , te equivocas , me importa mucho ...
+1 2 3 7 2 10 7 8 11
+================================
+NULL We make a treatment and you disappear
+Hacemos un trato y desapareces
+7 3 4 5 7
+================================
+NULL That does not shine well , my friend
+Eso no luce bien , mi amigo
+1 3 4 5 6 7 8
+================================
+NULL I can see that the targets of McKane , are armed
+Puedo ver que los blancos de McKane , están armados
+6 3 4 11 6 7 6 9 10 6
+================================
+NULL Hold its positions .
+Mantengan sus posiciones .
+3 3 3 4
+================================
+NULL All , hold their positions
+Todos , mantengan sus posiciones
+1 2 3 4 5
+================================
+NULL We copied that , Mr ..
+Copiamos eso , Sr .
+2 2 4 2 0
+================================
+NULL - We have a problem ?
+- ¿ Tenemos un problema ?
+1 6 2 4 5 6
+================================
+NULL We have it ?
+¿ Lo tenemos ?
+4 1 1 4
+================================
+NULL Dame the cellular telephone that I gave you previously
+Dame el teléfono celular que te di anteriormente
+1 2 4 3 5 8 9 9
+================================
+NULL You do not worry , I only made calls of collects
+No te preocupes , solamente hice llamadas de colecta
+3 4 4 5 11 8 11 10 11
+================================
+NULL - It watches , not in question this , but ...
+- Mire , no se de que se trata esto , pero ...
+1 3 4 5 7 7 2 7 7 8 4 10 11
+================================
+NULL - No , you do not know it ... so it cáilese
+- No , no lo sabes ... así que cállese
+1 2 3 6 8 7 9 12 10 12
+================================
+NULL This cellular telephone has a system of global location
+Este teléfono celular tiene un sistema de localización global
+6 3 2 4 5 6 7 6 6
+================================
+NULL In a while it will say to me where there are been last the 9 days Fantastic , is not asi ' ?
+En un momento me dirá donde has estado los últimos 9 días Fantástico , ¿ no es así ?
+1 2 17 8 17 9 13 12 13 13 15 16 17 18 23 20 19 21 23
+================================
+NULL Good ... it seems that been you have occupied .
+Bueno ... parece que has estado ocupado .
+1 2 9 5 9 6 9 10
+================================
+NULL You have occurred the crossed one
+Te has dado la recorrida
+3 3 3 4 3
+================================
+NULL - Berlin , Rome , Surich ...
+- Berlín , Roma , Surich ...
+1 2 3 2 3 2 7
+================================
+NULL - and nor a single decent treasure that was by this
+- Y ni un solo tesoro decente que se mostrara por esto
+1 3 3 4 5 7 3 8 3 3 10 11
+================================
+NULL And where this the money ?
+¿ Y donde esta el dinero ?
+6 1 2 3 4 5 6
+================================
+NULL Where this the device ?
+¿ Dónde esta el dispositivo ?
+5 1 2 3 4 5
+================================
+NULL - Near here - and then Since we do this ?
+- Cerca de aquí - Y entonces ¿ Como hacemos esto ?
+1 2 2 3 1 2 6 11 2 2 10 11
+================================
+NULL It will call them on the cellular telephone And soon you will have 1 hour to bring the money Michael
+Los llamare en el teléfono celular Y luego tendrás 1 hora para traer el dinero Michael
+17 3 2 6 8 7 9 10 17 14 15 17 17 6 19 20
+================================
+NULL It will call to you again , and I will say where you must take it to you , you understand ?
+Te llamare de nuevo , y te diré donde tienes que llevarlo , ¿ entiendes ?
+2 3 15 15 7 8 5 11 12 3 14 15 7 22 21 22
+================================
+NULL If , but we will have to run some tests , in order to assure to us if this bringing to us authenticates merchandise
+Si , pero tendremos que correr algunas pruebas , para asegurarnos si nos esta trayendo autentica mercancía
+1 2 3 15 6 15 9 15 2 8 15 18 17 19 15 15 24
+================================
+NULL Very just .
+Muy justo .
+1 2 3
+================================
+NULL - If
+- Si
+1 2
+================================
+NULL No
+No
+1
+================================
+NULL - For making the transference of 19 remaining million ... ...
+- Para la realizar la transferencia de los 19 millones restantes ... ... el Sr .
+1 2 3 5 3 5 6 5 5 5 5 10 10 4 5 0
+================================
+NULL Mr. Turner and I have a device of authentication , that operates by computer
+Turner y yo tenemos un dispositivo de autenticación , que opera por computadora
+2 3 9 9 6 7 8 9 10 11 9 13 14
+================================
+NULL One of my men will be with You to suggest ... ... and You trusted to us to of his ... ... to verify that our money this in its account
+Uno de mis hombres estará con Ud . para sugerir ... ... y Ud . nos confiara a unos de los suyos ... ... para verificar que nuestro dinero esta en su cuenta
+1 2 24 4 24 7 10 0 24 24 11 11 13 10 0 10 24 9 24 2 1 24 11 11 24 24 25 26 27 28 29 20 24
+================================
+NULL - and that is everything - we give a hostage You ?
+- Y eso es todo - ¿ Te damos un rehén ?
+1 10 3 4 5 1 12 10 10 9 10 12
+================================
+NULL - Yes , and You . they obtain one
+- Sí , y Uds . obtienen uno
+1 2 3 4 8 6 8 9
+================================
+NULL We called to this a small one I deposit of security ... ... which each one will have of return , unless everything lies down to lose , or we lose them of Vista that simple .
+Llamamos a esto un pequeño deposito de seguridad ... ... que cada uno tendrá de vuelta , a menos que todo se echa a perder , o los perdamos de vista así de simple .
+9 3 4 5 6 9 10 11 12 12 35 15 7 9 10 20 21 3 9 35 23 9 9 3 27 21 29 32 9 10 9 9 10 36 37
+================================
+NULL Now we have an agreement , I I create
+Ahora tenemos un acuerdo , yo creo
+1 9 4 5 6 9 9
+================================
+NULL In agreement
+De acuerdo
+2 2
+================================
+NULL You you are not going to me to disappear Michael again
+No te me vayas a desaparecer nuevamente Michael
+4 2 7 9 6 9 11 10
+================================
+NULL Wise people who would not bring it , certain ?
+¿ Sabias que no la traerían , cierto ?
+10 1 3 5 2 9 8 9 10
+================================
+NULL Standard Procedure .
+Procedimiento Standard .
+1 1 3
+================================
+NULL Types as that is not let joder in the first day
+Tipos como ese no se dejan joder en el primer día
+1 2 1 5 1 1 1 8 9 10 11
+================================
+NULL And that if they had not had chances " to falsear " the telephone ?
+¿ Y que si no hubieran tenido las chances de " falsear " el teléfono ?
+15 1 2 3 6 11 11 11 8 5 9 11 9 13 14 15
+================================
+NULL Good , we had said to him that the telephones already had been falseados in the main quarters of the company ... ... and soon we would have let it in its hands to see that it happened
+Bueno , le hubiéramos dicho que los teléfonos ya habían sido falseados en los cuarteles principales de la CIA ... ... y luego lo habríamos dejado en sus manos para ver que pasaba
+1 2 7 10 10 8 29 10 11 10 13 10 15 29 10 10 19 9 21 22 22 24 25 30 10 10 15 32 33 10 35 8 38
+================================
+NULL - I am hungry , that so your ?
+- Estoy hambriento , ¿ que tal tu ?
+1 4 4 5 9 6 7 8 9
+================================
+NULL - I believe that I am going to happen , thanks
+- Creo que voy a pasar , gracias
+1 9 4 6 8 9 10 11
+================================
+NULL This good Good night
+Esta bien Buenas noches
+1 2 4 4
+================================
+NULL Ohhh , Michael !
+Ohhh , Michael !!!
+1 2 3 1
+================================
+NULL - Hello - Everything returns to its place , eh ?
+- Hola - Todo vuelve a su lugar , ¿ eh ?
+1 2 1 4 4 6 7 8 9 11 10 11
+================================
+NULL You could , eh ... , to pass a towel to me ?
+¿ Podrías , eh ... , pasarme una toalla ?
+13 10 3 4 5 3 10 9 10 13
+================================
+NULL Very graceful
+Muy gracioso
+1 2
+================================
+NULL I imagined that you would be surprised , but I did not think that you would be shockeado .
+Me imaginé que te sorprenderías , pero no pensé que quedarías shockeado .
+2 2 3 4 2 8 9 12 2 3 2 2 19
+================================
+NULL - Hey , you want something of the room service ?
+- Hey , ¿ quieres algo del servicio de habitación ?
+1 2 3 11 5 6 10 10 7 9 11
+================================
+NULL - No , single it will take something
+- No , solo tomare algo
+1 2 3 4 7 8
+================================
+NULL - Oh , devils ... it is Nicole - That ?
+- Oh , diablos ... es Nicole - ¿ Que ?
+1 2 3 4 5 7 8 1 11 10 11
+================================
+NULL This is not exactly the welcome that hoped
+Esta no es exactamente la bienvenida que esperaba
+1 3 2 4 5 4 7 4
+================================
+NULL So that , that happens ?
+¿ Por que , que sucede ?
+6 1 2 3 2 5 6
+================================
+NULL - Affection , I made reservations to have supper in another place - Master that place
+- Cariño , hice reservaciones para cenar en otro lugar - Amo ese lugar
+1 2 3 5 6 6 9 10 11 12 1 6 6 12
+================================
+NULL - Affection these happy for not seeing me ?
+- Cariño ¿ No estas feliz de verme ?
+1 2 9 6 3 4 4 2 9
+================================
+NULL - Yes - Well
+- Sí - Bien
+1 2 1 4
+================================
+NULL Ah ...
+Ah ...
+1 2
+================================
+NULL I must take care of that
+Tengo que atender eso
+2 6 4 4
+================================
+NULL I will return immediately
+Volveré enseguida
+4 4
+================================
+NULL - How these ?
+- ¿ Cómo estas ?
+1 4 2 3 4
+================================
+NULL - Good , already you see as I walk
+- Bueno , ya ves como ando
+1 2 3 4 9 7 9
+================================
+NULL We have a problem
+Tenemos un problema
+1 3 4
+================================
+NULL If , already I see .
+Si , ya veo .
+1 2 3 5 6
+================================
+NULL Many people pay enough money by problems like that
+Muchas personas pagan bastante dinero por problemas como ese
+1 2 1 4 5 6 7 8 1
+================================
+NULL That is Nicole .
+Esa es Nicole .
+3 2 3 4
+================================
+NULL She is the fiancèe of Kevin .. , I mean , Michael
+Es la novia de Kevin .. , quiero decir , Michael
+1 3 4 5 6 7 8 7 10 8 12
+================================
+NULL It works in the Cnn in Europe
+Trabaja en la CNN en Europa
+2 3 4 5 3 7
+================================
+NULL And as they did not say to me that Michael has a fiancèe ?
+¿ Y como no me dijeron que Michael tiene una novia ?
+14 1 2 5 8 13 9 10 11 12 13 14
+================================
+NULL Good , whichever weeks broke one ago back ... ... they had a fight and she left
+Bueno , rompieron hace una cuantas semanas atrás ... ... tuvieron una pelea y ella se marchó
+1 2 5 7 6 3 4 8 9 9 5 6 5 15 16 14 5
+================================
+NULL Good , it seems that she forgetfulness ...
+Bueno , parece que ella se olvido ...
+1 2 7 5 6 7 7 8
+================================
+NULL Good , apparently the tapeworm privacy problems .
+Bueno , aparentemente el tenia problemas de intimidad .
+1 2 3 4 5 7 3 3 8
+================================
+NULL He was distant ... went to some class of that triviality of psycotherapy
+Estaba distante ... iba a alguna clase de esa tontería de psicoterapia
+11 11 4 11 6 7 8 9 11 11 9 11
+================================
+NULL - Of any way it went for the Balkan Mountains
+- De cualquier modo ella se fue para los Balcanes
+1 2 3 9 9 3 10 7 9 9
+================================
+NULL This good , then what you want that it does ?
+Esta bien , ¿ entonces qué quieres que haga ?
+1 2 3 11 4 5 7 8 4 11
+================================
+NULL Llévala to have supper .
+Llévala a cenar .
+1 2 1 5
+================================
+NULL It is of the Cnn .
+Ella es de la CNN .
+5 2 3 4 5 6
+================================
+NULL If you handle badly this , it could spoil your concealment , If ?
+Si manejas esto mal , ella podría estropear tu encubrimiento , ¿ Si ?
+1 3 5 3 6 3 3 3 10 3 6 14 1 14
+================================
+NULL You do not deceive , single thinks !
+No engañes , solo piensa !
+3 4 5 6 4 8
+================================
+NULL You do not deceive , single it thinks !
+No engañes , solo piensa !
+3 4 5 6 4 9
+================================
+NULL You do not deceive , single thinks !
+No engañes , solo piensa !
+3 4 5 6 4 8
+================================
+NULL I hope that they are witnesses then
+Espero que sean testigos entonces
+2 3 6 6 7
+================================
+NULL Michael !
+Michael !
+1 2
+================================
+NULL I hope that you are hungry , baby
+Espero que estés hambriento , nene
+2 3 8 6 7 8
+================================
+NULL If , I only must go to cepillar the teeth to me
+Si , sólo tengo que ir a cepillarme los dientes
+1 2 4 8 5 6 7 8 8 8
+================================
+NULL Hey , these calling to the residence of Pam , Marvin , July and the children ... ... it leaves a message after the tone ...
+Hey , estas llamando a la residencia de Pam , Marvin , July y los niños ... ... deja un mensaje después del tono ...
+1 2 3 7 5 6 7 8 9 2 7 2 13 14 20 7 17 17 7 21 7 23 23 7 17
+================================
+NULL July , I am Jake , these ahi ' ?
+July , soy Jake , ¿ estas ahí ?
+1 2 8 5 2 10 7 8 10
+================================
+NULL Good , if you have still not gone away , please , espérame
+Bueno , si no te has ido todavía , por favor , espérame
+1 2 3 7 4 13 13 6 2 11 11 2 13
+================================
+NULL Please , please ...
+Por favor , por favor ...
+1 3 2 3 3 4
+================================
+NULL I have a new work ... ... it is totally I legitimize and I have changed .
+Tengo un trabajo nuevo ... ... es totalmente legitimo y he cambiado .
+12 3 5 4 6 6 9 10 12 13 12 16 17
+================================
+NULL I have changed totally .
+He cambiado totalmente .
+3 3 4 5
+================================
+NULL I am a new man
+Soy un hombre nuevo
+4 3 5 4
+================================
+NULL I am the man whom it loves to you I love to you , I love so much to you ... ...
+Soy el hombre que te ama Te amo , te amo tanto ... ...
+7 3 4 1 9 7 11 11 14 9 11 7 21 21
+================================
+NULL Not even wise whichever it loved to you , until 2 minutes ago
+Ni siquiera sabia cuanto te amaba , hasta hace 2 minutos
+3 2 3 3 8 3 9 10 13 11 12
+================================

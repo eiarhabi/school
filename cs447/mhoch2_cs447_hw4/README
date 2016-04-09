@@ -1,0 +1,19 @@
+CS 447, Fall 2015
+Homework 4
+
+This directory contains 11 files:
+
+ Documentation:
+ (1)    README:                      This file
+ (2)    hw4.pdf:                     PDF handout with description of the assignment
+
+ Code:
+ (3)    hw4_translate.py:            Stub Python module for IBM Model 1 translation model
+ (4)    hw4_test.py:                 Test script for translation model
+
+ Data:
+ (5)    eng-spa_small.txt            Sample parallel corpus (English/Spanish) used by test script
+ (6)    reference_alignments.txt:    Alignments for eng-spa_small.txt produced by reference implementation of IBM Model 1
+
+ Other files:
+        eng-spa_small.aligned.txt    Alignment file produced by running hw4_translate.py
